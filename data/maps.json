@@ -1,0 +1,73 @@
+[{
+  "_id": "0000",
+  "mapId": 0,
+  "version": 6,
+  "mapSize": 409,
+  "class": 3,
+  "displayOrder": 1,
+  "mapName_jp": "ラヴィリンソス",
+  "mapName_na": "Labyrinthos",
+  "mapName_eu": "Labyrinthos",
+  "mapName_fr": "Le Labyrinthos",
+  "mapName_de": "Labyrinthos"
+},{
+  "_id": "0001",
+  "mapId": 1,
+  "version": 6,
+  "mapSize": 409,
+  "class": 3,
+  "displayOrder": 2,
+  "mapName_jp": "サベネア島",
+  "mapName_na": "Thavnair",
+  "mapName_eu": "Thavnair",
+  "mapName_fr": "Thavnair",
+  "mapName_de": "Thavnair"
+},{
+  "_id": "0002",
+  "mapId": 2,
+  "version": 6,
+  "mapSize": 409,
+  "class": 3,
+  "displayOrder": 3,
+  "mapName_jp": "ガレマルド",
+  "mapName_na": "Garlemald",
+  "mapName_eu": "Garlemald",
+  "mapName_fr": "Garlemald",
+  "mapName_de": "Garlemald"
+},{
+  "_id": "0003",
+  "mapId": 3,
+  "version": 6,
+  "mapSize": 409,
+  "class": 3,
+  "displayOrder": 4,
+  "mapName_jp": "嘆きの海",
+  "mapName_na": "Mare Lamentorum",
+  "mapName_eu": "Mare Lamentorum",
+  "mapName_fr": "Mare Lamentorum",
+  "mapName_de": "Mare Lamentorum"
+},{
+  "_id": "0004",
+  "mapId": 4,
+  "version": 6,
+  "mapSize": 409,
+  "class": 1,
+  "displayOrder": 5,
+  "mapName_jp": "エルピス",
+  "mapName_na": "Elpis",
+  "mapName_eu": "Elpis",
+  "mapName_fr": "Elpis",
+  "mapName_de": "Elpis"
+},{
+  "_id": "0005",
+  "mapId": 5,
+  "version": 6,
+  "mapSize": 409,
+  "class": 3,
+  "displayOrder": 6,
+  "mapName_jp": "ウルティマ･トゥーレ",
+  "mapName_na": "Ultima Thule",
+  "mapName_eu": "Ultima Thule",
+  "mapName_fr": "Ultima Thulé",
+  "mapName_de": "Ultima Thule"
+}]

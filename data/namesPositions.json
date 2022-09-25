@@ -1,0 +1,6682 @@
+[{
+  "_id": "0000-000000-000000",
+  "class": "Aetheryte",
+  "nameId": 0,
+  "mapId": 0,
+  "positionId": 0,
+  "name_jp": "アルケイオン保管院",
+  "positions": [
+    {
+      "_id": "0000-000000",
+      "posX": 303,
+      "posY": 119,
+      "weight": 15,
+      "mapId": 0,
+      "positionId": 0
+    }
+  ]
+},{
+  "_id": "0000-000001-000001",
+  "class": "Aetheryte",
+  "nameId": 1,
+  "mapId": 0,
+  "positionId": 1,
+  "name_jp": "リトルシャーレアン",
+  "positions": [
+    {
+      "_id": "0000-000001",
+      "posX": 216,
+      "posY": 205,
+      "weight": 15,
+      "mapId": 0,
+      "positionId": 1
+    }
+  ]
+},{
+  "_id": "0000-000002-000002",
+  "class": "Aetheryte",
+  "nameId": 2,
+  "mapId": 0,
+  "positionId": 2,
+  "name_jp": "アポリア本部",
+  "positions": [
+    {
+      "_id": "0000-000002",
+      "posX": 68,
+      "posY": 275,
+      "weight": 15,
+      "mapId": 0,
+      "positionId": 2
+    }
+  ]
+},{
+  "_id": "0001-000037-000003",
+  "class": "Aetheryte",
+  "nameId": 3,
+  "mapId": 1,
+  "positionId": 37,
+  "name_jp": "イェドリマン",
+  "positions": [
+    {
+      "_id": "0001-000037",
+      "posX": 253,
+      "posY": 340,
+      "weight": 15,
+      "mapId": 1,
+      "positionId": 37
+    }
+  ]
+},{
+  "_id": "0001-000038-000004",
+  "class": "Aetheryte",
+  "nameId": 4,
+  "mapId": 1,
+  "positionId": 38,
+  "name_jp": "デミールの遺烈郷",
+  "positions": [
+    {
+      "_id": "0001-000038",
+      "posX": 109,
+      "posY": 222,
+      "weight": 15,
+      "mapId": 1,
+      "positionId": 38
+    }
+  ]
+},{
+  "_id": "0001-000039-000005",
+  "class": "Aetheryte",
+  "nameId": 5,
+  "mapId": 1,
+  "positionId": 39,
+  "name_jp": "パーラカの里",
+  "positions": [
+    {
+      "_id": "0001-000039",
+      "posX": 295,
+      "posY": 165,
+      "weight": 15,
+      "mapId": 1,
+      "positionId": 39
+    }
+  ]
+},{
+  "_id": "0002-000070-000006",
+  "class": "Aetheryte",
+  "nameId": 6,
+  "mapId": 2,
+  "positionId": 70,
+  "name_jp": "キャンプ・ブロークングラス",
+  "positions": [
+    {
+      "_id": "0002-000070",
+      "posX": 133,
+      "posY": 310,
+      "weight": 15,
+      "mapId": 2,
+      "positionId": 70
+    }
+  ]
+},{
+  "_id": "0002-000071-000007",
+  "class": "Aetheryte",
+  "nameId": 7,
+  "mapId": 2,
+  "positionId": 71,
+  "name_jp": "テルティウム駅",
+  "positions": [
+    {
+      "_id": "0002-000071",
+      "posX": 318,
+      "posY": 179,
+      "weight": 20,
+      "mapId": 2,
+      "positionId": 71
+    }
+  ]
+},{
+  "_id": "0003-000101-000008",
+  "class": "Aetheryte",
+  "nameId": 8,
+  "mapId": 3,
+  "positionId": 101,
+  "name_jp": "涙の入江",
+  "positions": [
+    {
+      "_id": "0003-000101",
+      "posX": 101,
+      "posY": 344,
+      "weight": 15,
+      "mapId": 3,
+      "positionId": 101
+    }
+  ]
+},{
+  "_id": "0003-000102-000009",
+  "class": "Aetheryte",
+  "nameId": 9,
+  "mapId": 3,
+  "positionId": 102,
+  "name_jp": "ベストウェイ・バロー",
+  "positions": [
+    {
+      "_id": "0003-000102",
+      "posX": 214,
+      "posY": 112,
+      "weight": 20,
+      "mapId": 3,
+      "positionId": 102
+    }
+  ]
+},{
+  "_id": "0004-000128-000010",
+  "class": "Aetheryte",
+  "nameId": 10,
+  "mapId": 4,
+  "positionId": 128,
+  "name_jp": "十二節の園",
+  "positions": [
+    {
+      "_id": "0004-000128",
+      "posX": 88,
+      "posY": 323,
+      "weight": 15,
+      "mapId": 4,
+      "positionId": 128
+    }
+  ]
+},{
+  "_id": "0004-000129-000011",
+  "class": "Aetheryte",
+  "nameId": 11,
+  "mapId": 4,
+  "positionId": 129,
+  "name_jp": "アナグノリシス天測園",
+  "positions": [
+    {
+      "_id": "0004-000129",
+      "posX": 246,
+      "posY": 240,
+      "weight": 15,
+      "mapId": 4,
+      "positionId": 129
+    }
+  ]
+},{
+  "_id": "0004-000130-000012",
+  "class": "Aetheryte",
+  "nameId": 12,
+  "mapId": 4,
+  "positionId": 130,
+  "name_jp": "ポイエテーン・オイコス",
+  "positions": [
+    {
+      "_id": "0004-000130",
+      "posX": 110,
+      "posY": 177,
+      "weight": 15,
+      "mapId": 4,
+      "positionId": 130
+    }
+  ]
+},{
+  "_id": "0005-000165-000013",
+  "class": "Aetheryte",
+  "nameId": 13,
+  "mapId": 5,
+  "positionId": 165,
+  "name_jp": "リア・ターラ",
+  "positions": [
+    {
+      "_id": "0005-000165",
+      "posX": 105,
+      "posY": 268,
+      "weight": 15,
+      "mapId": 5,
+      "positionId": 165
+    }
+  ]
+},{
+  "_id": "0005-000166-000014",
+  "class": "Aetheryte",
+  "nameId": 14,
+  "mapId": 5,
+  "positionId": 166,
+  "name_jp": "イーアの里",
+  "positions": [
+    {
+      "_id": "0005-000166",
+      "posX": 226,
+      "posY": 83,
+      "weight": 15,
+      "mapId": 5,
+      "positionId": 166
+    }
+  ]
+},{
+  "_id": "0005-000167-000015",
+  "class": "Aetheryte",
+  "nameId": 15,
+  "mapId": 5,
+  "positionId": 167,
+  "name_jp": "オミクロンベース",
+  "positions": [
+    {
+      "_id": "0005-000167",
+      "posX": 312,
+      "posY": 281,
+      "weight": 15,
+      "mapId": 5,
+      "positionId": 167
+    }
+  ]
+},{
+  "_id": "0000-000003-000016",
+  "class": "Mob_",
+  "nameId": 16,
+  "mapId": 0,
+  "positionId": 3,
+  "name_jp": "カリブー",
+  "positions": [
+    {
+      "_id": "0000-000003",
+      "posX": 150,
+      "posY": 60,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 3
+    }
+  ]
+},{
+  "_id": "0000-000004-000017",
+  "class": "Mob_",
+  "nameId": 17,
+  "mapId": 0,
+  "positionId": 4,
+  "name_jp": "リマスカブラ",
+  "positions": [
+    {
+      "_id": "0000-000004",
+      "posX": 180,
+      "posY": 60,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 4
+    }
+  ]
+},{
+  "_id": "0000-000006-000018",
+  "class": "Mob_",
+  "nameId": 18,
+  "mapId": 0,
+  "positionId": 6,
+  "name_jp": "リマスカブラ",
+  "positions": [
+    {
+      "_id": "0000-000006",
+      "posX": 320,
+      "posY": 90,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 6
+    }
+  ]
+},{
+  "_id": "0000-000005-000019",
+  "class": "Mob_",
+  "nameId": 19,
+  "mapId": 0,
+  "positionId": 5,
+  "name_jp": "トロル",
+  "positions": [
+    {
+      "_id": "0000-000005",
+      "posX": 260,
+      "posY": 70,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 5
+    }
+  ]
+},{
+  "_id": "0000-000007-000020",
+  "class": "Mob_",
+  "nameId": 20,
+  "mapId": 0,
+  "positionId": 7,
+  "name_jp": "メリノ",
+  "positions": [
+    {
+      "_id": "0000-000007",
+      "posX": 145,
+      "posY": 90,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 7
+    }
+  ]
+},{
+  "_id": "0000-000007-000021",
+  "class": "Mob_",
+  "nameId": 21,
+  "mapId": 0,
+  "positionId": 7,
+  "name_jp": "ブラックメリノ",
+  "positions": [
+    {
+      "_id": "0000-000007",
+      "posX": 145,
+      "posY": 90,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 7
+    }
+  ]
+},{
+  "_id": "0000-000008-000022",
+  "class": "Mob_",
+  "nameId": 22,
+  "mapId": 0,
+  "positionId": 8,
+  "name_jp": "ヤーコウ",
+  "positions": [
+    {
+      "_id": "0000-000008",
+      "posX": 165,
+      "posY": 115,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 8
+    }
+  ]
+},{
+  "_id": "0000-000009-000023",
+  "class": "Mob_",
+  "nameId": 23,
+  "mapId": 0,
+  "positionId": 9,
+  "name_jp": "ノーザン・スナップウィード",
+  "positions": [
+    {
+      "_id": "0000-000009",
+      "posX": 226,
+      "posY": 107,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 9
+    }
+  ]
+},{
+  "_id": "0000-000010-000024",
+  "class": "Mob_",
+  "nameId": 24,
+  "mapId": 0,
+  "positionId": 10,
+  "name_jp": "マウンテンチキン",
+  "positions": [
+    {
+      "_id": "0000-000010",
+      "posX": 215,
+      "posY": 140,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 10
+    }
+  ]
+},{
+  "_id": "0000-000011-000025",
+  "class": "Mob_",
+  "nameId": 25,
+  "mapId": 0,
+  "positionId": 11,
+  "name_jp": "ペプレド",
+  "positions": [
+    {
+      "_id": "0000-000011",
+      "posX": 257,
+      "posY": 145,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 11
+    }
+  ]
+},{
+  "_id": "0000-000012-000026",
+  "class": "Mob_",
+  "nameId": 26,
+  "mapId": 0,
+  "positionId": 12,
+  "name_jp": "ラヴィリンソス・ナルブルーイ",
+  "positions": [
+    {
+      "_id": "0000-000012",
+      "posX": 310,
+      "posY": 125,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 12
+    }
+  ]
+},{
+  "_id": "0000-000013-000027",
+  "class": "Mob_",
+  "nameId": 27,
+  "mapId": 0,
+  "positionId": 13,
+  "name_jp": "ラヴィリンソス・サンクチンニ",
+  "positions": [
+    {
+      "_id": "0000-000013",
+      "posX": 375,
+      "posY": 130,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 13
+    }
+  ]
+},{
+  "_id": "0000-000014-000028",
+  "class": "Mob_",
+  "nameId": 28,
+  "mapId": 0,
+  "positionId": 14,
+  "name_jp": "クリオコナイト",
+  "positions": [
+    {
+      "_id": "0000-000014",
+      "posX": 318,
+      "posY": 162,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 14
+    }
+  ]
+},{
+  "_id": "0000-000015-000029",
+  "class": "Mob_",
+  "nameId": 29,
+  "mapId": 0,
+  "positionId": 15,
+  "name_jp": "ラヴィリンソス・スクリーマー",
+  "positions": [
+    {
+      "_id": "0000-000015",
+      "posX": 340,
+      "posY": 156,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 15
+    }
+  ]
+},{
+  "_id": "0000-000016-000030",
+  "class": "Mob_",
+  "nameId": 30,
+  "mapId": 0,
+  "positionId": 16,
+  "name_jp": "ストレイ・エッグ",
+  "positions": [
+    {
+      "_id": "0000-000016",
+      "posX": 300,
+      "posY": 210,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 16
+    }
+  ]
+},{
+  "_id": "0000-000016-000031",
+  "class": "Mob_",
+  "nameId": 31,
+  "mapId": 0,
+  "positionId": 16,
+  "name_jp": "ストレイ・オニオン",
+  "positions": [
+    {
+      "_id": "0000-000016",
+      "posX": 300,
+      "posY": 210,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 16
+    }
+  ]
+},{
+  "_id": "0000-000016-000032",
+  "class": "Mob_",
+  "nameId": 32,
+  "mapId": 0,
+  "positionId": 16,
+  "name_jp": "ストレイ・ガーリック",
+  "positions": [
+    {
+      "_id": "0000-000016",
+      "posX": 300,
+      "posY": 210,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 16
+    }
+  ]
+},{
+  "_id": "0000-000016-000033",
+  "class": "Mob_",
+  "nameId": 33,
+  "mapId": 0,
+  "positionId": 16,
+  "name_jp": "ストレイ・クイーン",
+  "positions": [
+    {
+      "_id": "0000-000016",
+      "posX": 300,
+      "posY": 210,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 16
+    }
+  ]
+},{
+  "_id": "0000-000016-000034",
+  "class": "Mob_",
+  "nameId": 34,
+  "mapId": 0,
+  "positionId": 16,
+  "name_jp": "ストレイ・コリガン",
+  "positions": [
+    {
+      "_id": "0000-000016",
+      "posX": 300,
+      "posY": 210,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 16
+    }
+  ]
+},{
+  "_id": "0000-000016-000035",
+  "class": "Mob_",
+  "nameId": 35,
+  "mapId": 0,
+  "positionId": 16,
+  "name_jp": "ストレイ・トマト",
+  "positions": [
+    {
+      "_id": "0000-000016",
+      "posX": 300,
+      "posY": 210,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 16
+    }
+  ]
+},{
+  "_id": "0000-000016-000036",
+  "class": "Mob_",
+  "nameId": 36,
+  "mapId": 0,
+  "positionId": 16,
+  "name_jp": "ストレイ・マンドラゴラ",
+  "positions": [
+    {
+      "_id": "0000-000016",
+      "posX": 300,
+      "posY": 210,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 16
+    }
+  ]
+},{
+  "_id": "0000-000017-000037",
+  "class": "Mob_",
+  "nameId": 37,
+  "mapId": 0,
+  "positionId": 17,
+  "name_jp": "ゲノーモス",
+  "positions": [
+    {
+      "_id": "0000-000017",
+      "posX": 306,
+      "posY": 254,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 17
+    }
+  ]
+},{
+  "_id": "0000-000018-000038",
+  "class": "Mob_",
+  "nameId": 38,
+  "mapId": 0,
+  "positionId": 18,
+  "name_jp": "ミスリルキャップ",
+  "positions": [
+    {
+      "_id": "0000-000018",
+      "posX": 365,
+      "posY": 226,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 18
+    }
+  ]
+},{
+  "_id": "0000-000019-000039",
+  "class": "Mob_",
+  "nameId": 39,
+  "mapId": 0,
+  "positionId": 19,
+  "name_jp": "セントラル・プラバーサ",
+  "positions": [
+    {
+      "_id": "0000-000019",
+      "posX": 177,
+      "posY": 179,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 19
+    }
+  ]
+},{
+  "_id": "0000-000020-000040",
+  "class": "Mob_",
+  "nameId": 40,
+  "mapId": 0,
+  "positionId": 20,
+  "name_jp": "セントラル・アナラ",
+  "positions": [
+    {
+      "_id": "0000-000020",
+      "posX": 249,
+      "posY": 238,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 20
+    }
+  ]
+},{
+  "_id": "0000-000020-000041",
+  "class": "Mob_",
+  "nameId": 41,
+  "mapId": 0,
+  "positionId": 20,
+  "name_jp": "ベルカナ",
+  "positions": [
+    {
+      "_id": "0000-000020",
+      "posX": 249,
+      "posY": 238,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 20
+    }
+  ]
+},{
+  "_id": "0000-000022-000042",
+  "class": "Mob_",
+  "nameId": 42,
+  "mapId": 0,
+  "positionId": 22,
+  "name_jp": "ベルカナ",
+  "positions": [
+    {
+      "_id": "0000-000022",
+      "posX": 224,
+      "posY": 348,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 22
+    }
+  ]
+},{
+  "_id": "0000-000024-000043",
+  "class": "Mob_",
+  "nameId": 43,
+  "mapId": 0,
+  "positionId": 24,
+  "name_jp": "ベルカナ",
+  "positions": [
+    {
+      "_id": "0000-000024",
+      "posX": 89,
+      "posY": 344,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 24
+    }
+  ]
+},{
+  "_id": "0000-000025-000044",
+  "class": "Mob_",
+  "nameId": 44,
+  "mapId": 0,
+  "positionId": 25,
+  "name_jp": "ベルカナ",
+  "positions": [
+    {
+      "_id": "0000-000025",
+      "posX": 89,
+      "posY": 206,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 25
+    }
+  ]
+},{
+  "_id": "0000-000021-000045",
+  "class": "Mob_",
+  "nameId": 45,
+  "mapId": 0,
+  "positionId": 21,
+  "name_jp": "セントラル・ダラ",
+  "positions": [
+    {
+      "_id": "0000-000021",
+      "posX": 244,
+      "posY": 316,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 21
+    }
+  ]
+},{
+  "_id": "0000-000023-000046",
+  "class": "Mob_",
+  "nameId": 46,
+  "mapId": 0,
+  "positionId": 23,
+  "name_jp": "セントラル・ソーマ",
+  "positions": [
+    {
+      "_id": "0000-000023",
+      "posX": 188,
+      "posY": 368,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 23
+    }
+  ]
+},{
+  "_id": "0000-000024-000047",
+  "class": "Mob_",
+  "nameId": 47,
+  "mapId": 0,
+  "positionId": 24,
+  "name_jp": "セントラル・アーパス",
+  "positions": [
+    {
+      "_id": "0000-000024",
+      "posX": 89,
+      "posY": 344,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 24
+    }
+  ]
+},{
+  "_id": "0000-000025-000048",
+  "class": "Mob_",
+  "nameId": 48,
+  "mapId": 0,
+  "positionId": 25,
+  "name_jp": "セントラル・アニラ",
+  "positions": [
+    {
+      "_id": "0000-000025",
+      "posX": 89,
+      "posY": 206,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 25
+    }
+  ]
+},{
+  "_id": "0001-000040-000049",
+  "class": "Mob_",
+  "nameId": 49,
+  "mapId": 1,
+  "positionId": 40,
+  "name_jp": "カチャパ",
+  "positions": [
+    {
+      "_id": "0001-000040",
+      "posX": 206,
+      "posY": 337,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 40
+    }
+  ]
+},{
+  "_id": "0001-000041-000050",
+  "class": "Mob_",
+  "nameId": 50,
+  "mapId": 1,
+  "positionId": 41,
+  "name_jp": "ガジャ",
+  "positions": [
+    {
+      "_id": "0001-000041",
+      "posX": 210,
+      "posY": 300,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 41
+    }
+  ]
+},{
+  "_id": "0001-000042-000051",
+  "class": "Mob_",
+  "nameId": 51,
+  "mapId": 1,
+  "positionId": 42,
+  "name_jp": "アキャーリクラブ",
+  "positions": [
+    {
+      "_id": "0001-000042",
+      "posX": 136,
+      "posY": 295,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 42
+    }
+  ]
+},{
+  "_id": "0001-000043-000052",
+  "class": "Mob_",
+  "nameId": 52,
+  "mapId": 1,
+  "positionId": 43,
+  "name_jp": "ハンサ",
+  "positions": [
+    {
+      "_id": "0001-000043",
+      "posX": 177,
+      "posY": 264,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 43
+    }
+  ]
+},{
+  "_id": "0001-000044-000053",
+  "class": "Mob_",
+  "nameId": 53,
+  "mapId": 1,
+  "positionId": 44,
+  "name_jp": "グハーシャヤ",
+  "positions": [
+    {
+      "_id": "0001-000044",
+      "posX": 276,
+      "posY": 275,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 44
+    }
+  ]
+},{
+  "_id": "0001-000045-000054",
+  "class": "Mob_",
+  "nameId": 54,
+  "mapId": 1,
+  "positionId": 45,
+  "name_jp": "シーングパクシー",
+  "positions": [
+    {
+      "_id": "0001-000045",
+      "posX": 330,
+      "posY": 256,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 45
+    }
+  ]
+},{
+  "_id": "0001-000046-000055",
+  "class": "Mob_",
+  "nameId": 55,
+  "mapId": 1,
+  "positionId": 46,
+  "name_jp": "ハヌマンラングール",
+  "positions": [
+    {
+      "_id": "0001-000046",
+      "posX": 246,
+      "posY": 246,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 46
+    }
+  ]
+},{
+  "_id": "0001-000047-000056",
+  "class": "Mob_",
+  "nameId": 56,
+  "mapId": 1,
+  "positionId": 47,
+  "name_jp": "バブーン",
+  "positions": [
+    {
+      "_id": "0001-000047",
+      "posX": 255,
+      "posY": 208,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 47
+    }
+  ]
+},{
+  "_id": "0001-000048-000057",
+  "class": "Mob_",
+  "nameId": 57,
+  "mapId": 1,
+  "positionId": 48,
+  "name_jp": "ピシャーチャ",
+  "positions": [
+    {
+      "_id": "0001-000048",
+      "posX": 189,
+      "posY": 216,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 48
+    }
+  ]
+},{
+  "_id": "0001-000049-000058",
+  "class": "Mob_",
+  "nameId": 58,
+  "mapId": 1,
+  "positionId": 49,
+  "name_jp": "ヴァジュララングラ",
+  "positions": [
+    {
+      "_id": "0001-000049",
+      "posX": 123,
+      "posY": 191,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 49
+    }
+  ]
+},{
+  "_id": "0001-000050-000059",
+  "class": "Mob_",
+  "nameId": 59,
+  "mapId": 1,
+  "positionId": 50,
+  "name_jp": "オドカン",
+  "positions": [
+    {
+      "_id": "0001-000050",
+      "posX": 229,
+      "posY": 198,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 50
+    }
+  ]
+},{
+  "_id": "0001-000051-000060",
+  "class": "Mob_",
+  "nameId": 60,
+  "mapId": 1,
+  "positionId": 51,
+  "name_jp": "ブンジャンガ",
+  "positions": [
+    {
+      "_id": "0001-000051",
+      "posX": 304,
+      "posY": 175,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 51
+    }
+  ]
+},{
+  "_id": "0001-000052-000061",
+  "class": "Mob_",
+  "nameId": 61,
+  "mapId": 1,
+  "positionId": 52,
+  "name_jp": "アシュヴァッタ",
+  "positions": [
+    {
+      "_id": "0001-000052",
+      "posX": 264,
+      "posY": 130,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 52
+    }
+  ]
+},{
+  "_id": "0001-000053-000062",
+  "class": "Mob_",
+  "nameId": 62,
+  "mapId": 1,
+  "positionId": 53,
+  "name_jp": "クンビーラ",
+  "positions": [
+    {
+      "_id": "0001-000053",
+      "posX": 273,
+      "posY": 151,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 53
+    }
+  ]
+},{
+  "_id": "0001-000054-000063",
+  "class": "Mob_",
+  "nameId": 63,
+  "mapId": 1,
+  "positionId": 54,
+  "name_jp": "シュトラムルグ",
+  "positions": [
+    {
+      "_id": "0001-000054",
+      "posX": 169,
+      "posY": 165,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 54
+    }
+  ]
+},{
+  "_id": "0001-000055-000064",
+  "class": "Mob_",
+  "nameId": 64,
+  "mapId": 1,
+  "positionId": 55,
+  "name_jp": "ヴァルラス",
+  "positions": [
+    {
+      "_id": "0001-000055",
+      "posX": 79,
+      "posY": 160,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 55
+    }
+  ]
+},{
+  "_id": "0001-000056-000065",
+  "class": "Mob_",
+  "nameId": 65,
+  "mapId": 1,
+  "positionId": 56,
+  "name_jp": "チャムロッシュ",
+  "positions": [
+    {
+      "_id": "0001-000056",
+      "posX": 104,
+      "posY": 136,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 56
+    }
+  ]
+},{
+  "_id": "0001-000057-000066",
+  "class": "Mob_",
+  "nameId": 66,
+  "mapId": 1,
+  "positionId": 57,
+  "name_jp": "マンジュサカ",
+  "positions": [
+    {
+      "_id": "0001-000057",
+      "posX": 137,
+      "posY": 115,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 57
+    }
+  ]
+},{
+  "_id": "0001-000058-000067",
+  "class": "Mob_",
+  "nameId": 67,
+  "mapId": 1,
+  "positionId": 58,
+  "name_jp": "スターマイト",
+  "positions": [
+    {
+      "_id": "0001-000058",
+      "posX": 163,
+      "posY": 91,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 58
+    }
+  ]
+},{
+  "_id": "0001-000059-000068",
+  "class": "Mob_",
+  "nameId": 68,
+  "mapId": 1,
+  "positionId": 59,
+  "name_jp": "サベネアンジャムメル",
+  "positions": [
+    {
+      "_id": "0001-000059",
+      "posX": 208,
+      "posY": 121,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 59
+    }
+  ]
+},{
+  "_id": "0002-000072-000069",
+  "class": "Mob_",
+  "nameId": 69,
+  "mapId": 2,
+  "positionId": 72,
+  "name_jp": "アルマスティ",
+  "positions": [
+    {
+      "_id": "0002-000072",
+      "posX": 307,
+      "posY": 310,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 72
+    }
+  ]
+},{
+  "_id": "0002-000073-000070",
+  "class": "Mob_",
+  "nameId": 70,
+  "mapId": 2,
+  "positionId": 73,
+  "name_jp": "イルサバード・トゥルスス",
+  "positions": [
+    {
+      "_id": "0002-000073",
+      "posX": 252,
+      "posY": 312,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 73
+    }
+  ]
+},{
+  "_id": "0002-000074-000071",
+  "class": "Mob_",
+  "nameId": 71,
+  "mapId": 2,
+  "positionId": 74,
+  "name_jp": "エブラーナベアー",
+  "positions": [
+    {
+      "_id": "0002-000074",
+      "posX": 140,
+      "posY": 270,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 74
+    }
+  ]
+},{
+  "_id": "0002-000075-000072",
+  "class": "Mob_",
+  "nameId": 72,
+  "mapId": 2,
+  "positionId": 75,
+  "name_jp": "エブラーナ・アイストラップ",
+  "positions": [
+    {
+      "_id": "0002-000075",
+      "posX": 275,
+      "posY": 209,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 75
+    }
+  ]
+},{
+  "_id": "0002-000076-000073",
+  "class": "Mob_",
+  "nameId": 73,
+  "mapId": 2,
+  "positionId": 76,
+  "name_jp": "オウヴィボス",
+  "positions": [
+    {
+      "_id": "0002-000076",
+      "posX": 189,
+      "posY": 292,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 76
+    }
+  ]
+},{
+  "_id": "0002-000077-000074",
+  "class": "Mob_",
+  "nameId": 74,
+  "mapId": 2,
+  "positionId": 77,
+  "name_jp": "オーバーグロウンローズ",
+  "positions": [
+    {
+      "_id": "0002-000077",
+      "posX": 250,
+      "posY": 273,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 77
+    }
+  ]
+},{
+  "_id": "0002-000078-000075",
+  "class": "Mob_",
+  "nameId": 75,
+  "mapId": 2,
+  "positionId": 78,
+  "name_jp": "オーバーチューンド",
+  "positions": [
+    {
+      "_id": "0002-000078",
+      "posX": 230,
+      "posY": 80,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 78
+    }
+  ]
+},{
+  "_id": "0002-000079-000076",
+  "class": "Mob_",
+  "nameId": 76,
+  "mapId": 2,
+  "positionId": 79,
+  "name_jp": "オートマチック・アヴェンジャー",
+  "positions": [
+    {
+      "_id": "0002-000079",
+      "posX": 100,
+      "posY": 116,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 79
+    }
+  ]
+},{
+  "_id": "0002-000080-000077",
+  "class": "Mob_",
+  "nameId": 77,
+  "mapId": 2,
+  "positionId": 80,
+  "name_jp": "オートマチック・キャバルリー",
+  "positions": [
+    {
+      "_id": "0002-000080",
+      "posX": 133,
+      "posY": 180,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 80
+    }
+  ]
+},{
+  "_id": "0002-000081-000078",
+  "class": "Mob_",
+  "nameId": 78,
+  "mapId": 2,
+  "positionId": 81,
+  "name_jp": "オートマチック・コロッサス",
+  "positions": [
+    {
+      "_id": "0002-000081",
+      "posX": 238,
+      "posY": 128,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 81
+    }
+  ]
+},{
+  "_id": "0002-000078-000079",
+  "class": "Mob_",
+  "nameId": 79,
+  "mapId": 2,
+  "positionId": 78,
+  "name_jp": "オートマチック・サテライト",
+  "positions": [
+    {
+      "_id": "0002-000078",
+      "posX": 230,
+      "posY": 80,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 78
+    }
+  ]
+},{
+  "_id": "0002-000082-000080",
+  "class": "Mob_",
+  "nameId": 80,
+  "mapId": 2,
+  "positionId": 82,
+  "name_jp": "オートマチック・スラッシャー",
+  "positions": [
+    {
+      "_id": "0002-000082",
+      "posX": 294,
+      "posY": 146,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 82
+    }
+  ]
+},{
+  "_id": "0002-000083-000081",
+  "class": "Mob_",
+  "nameId": 81,
+  "mapId": 2,
+  "positionId": 83,
+  "name_jp": "オートマチック・デスマシーン",
+  "positions": [
+    {
+      "_id": "0002-000083",
+      "posX": 215,
+      "posY": 159,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 83
+    }
+  ]
+},{
+  "_id": "0002-000083-000082",
+  "class": "Mob_",
+  "nameId": 82,
+  "mapId": 2,
+  "positionId": 83,
+  "name_jp": "オートマチック・ビット",
+  "positions": [
+    {
+      "_id": "0002-000083",
+      "posX": 215,
+      "posY": 159,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 83
+    }
+  ]
+},{
+  "_id": "0002-000084-000083",
+  "class": "Mob_",
+  "nameId": 83,
+  "mapId": 2,
+  "positionId": 84,
+  "name_jp": "オートマチック・マグナローダー",
+  "positions": [
+    {
+      "_id": "0002-000084",
+      "posX": 148,
+      "posY": 96,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 84
+    }
+  ]
+},{
+  "_id": "0002-000085-000084",
+  "class": "Mob_",
+  "nameId": 84,
+  "mapId": 2,
+  "positionId": 85,
+  "name_jp": "カニスルピナス",
+  "positions": [
+    {
+      "_id": "0002-000085",
+      "posX": 152,
+      "posY": 232,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 85
+    }
+  ]
+},{
+  "_id": "0002-000086-000085",
+  "class": "Mob_",
+  "nameId": 85,
+  "mapId": 2,
+  "positionId": 86,
+  "name_jp": "サイガ",
+  "positions": [
+    {
+      "_id": "0002-000086",
+      "posX": 324,
+      "posY": 215,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 86
+    }
+  ]
+},{
+  "_id": "0002-000087-000086",
+  "class": "Mob_",
+  "nameId": 86,
+  "mapId": 2,
+  "positionId": 87,
+  "name_jp": "サイガ",
+  "positions": [
+    {
+      "_id": "0002-000087",
+      "posX": 345,
+      "posY": 87,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 87
+    }
+  ]
+},{
+  "_id": "0002-000088-000087",
+  "class": "Mob_",
+  "nameId": 87,
+  "mapId": 2,
+  "positionId": 88,
+  "name_jp": "セルリウムゾブラン",
+  "positions": [
+    {
+      "_id": "0002-000088",
+      "posX": 307,
+      "posY": 341,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 88
+    }
+  ]
+},{
+  "_id": "0002-000082-000088",
+  "class": "Mob_",
+  "nameId": 88,
+  "mapId": 2,
+  "positionId": 82,
+  "name_jp": "モロズゴ",
+  "positions": [
+    {
+      "_id": "0002-000082",
+      "posX": 294,
+      "posY": 146,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 82
+    }
+  ]
+},{
+  "_id": "0002-000089-000089",
+  "class": "Mob_",
+  "nameId": 89,
+  "mapId": 2,
+  "positionId": 89,
+  "name_jp": "モロズゴ",
+  "positions": [
+    {
+      "_id": "0002-000089",
+      "posX": 169,
+      "posY": 144,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 89
+    }
+  ]
+},{
+  "_id": "0002-000090-000090",
+  "class": "Mob_",
+  "nameId": 90,
+  "mapId": 2,
+  "positionId": 90,
+  "name_jp": "ヨトゥン",
+  "positions": [
+    {
+      "_id": "0002-000090",
+      "posX": 221,
+      "posY": 237,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 90
+    }
+  ]
+},{
+  "_id": "0003-000103-000091",
+  "class": "Mob_",
+  "nameId": 91,
+  "mapId": 3,
+  "positionId": 103,
+  "name_jp": "アーマルコライト",
+  "positions": [
+    {
+      "_id": "0003-000103",
+      "posX": 170,
+      "posY": 307,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 103
+    }
+  ]
+},{
+  "_id": "0003-000104-000092",
+  "class": "Mob_",
+  "nameId": 92,
+  "mapId": 3,
+  "positionId": 104,
+  "name_jp": "ウィーパー",
+  "positions": [
+    {
+      "_id": "0003-000104",
+      "posX": 308,
+      "posY": 320,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 104
+    }
+  ]
+},{
+  "_id": "0003-000105-000093",
+  "class": "Mob_",
+  "nameId": 93,
+  "mapId": 3,
+  "positionId": 105,
+  "name_jp": "オスキュレーター",
+  "positions": [
+    {
+      "_id": "0003-000105",
+      "posX": 238,
+      "posY": 217,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 105
+    }
+  ]
+},{
+  "_id": "0003-000106-000094",
+  "class": "Mob_",
+  "nameId": 94,
+  "mapId": 3,
+  "positionId": 106,
+  "name_jp": "クリーナー",
+  "positions": [
+    {
+      "_id": "0003-000106",
+      "posX": 330,
+      "posY": 100,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 106
+    }
+  ]
+},{
+  "_id": "0003-000107-000095",
+  "class": "Mob_",
+  "nameId": 95,
+  "mapId": 3,
+  "positionId": 107,
+  "name_jp": "ケアテイカー",
+  "positions": [
+    {
+      "_id": "0003-000107",
+      "posX": 110,
+      "posY": 110,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 107
+    }
+  ]
+},{
+  "_id": "0003-000107-000096",
+  "class": "Mob_",
+  "nameId": 96,
+  "mapId": 3,
+  "positionId": 107,
+  "name_jp": "サポーター",
+  "positions": [
+    {
+      "_id": "0003-000107",
+      "posX": 110,
+      "posY": 110,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 107
+    }
+  ]
+},{
+  "_id": "0003-000108-000097",
+  "class": "Mob_",
+  "nameId": 97,
+  "mapId": 3,
+  "positionId": 108,
+  "name_jp": "シンカー",
+  "positions": [
+    {
+      "_id": "0003-000108",
+      "posX": 196,
+      "posY": 222,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 108
+    }
+  ]
+},{
+  "_id": "0003-000109-000098",
+  "class": "Mob_",
+  "nameId": 98,
+  "mapId": 3,
+  "positionId": 109,
+  "name_jp": "スウィーパー",
+  "positions": [
+    {
+      "_id": "0003-000109",
+      "posX": 100,
+      "posY": 340,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 109
+    }
+  ]
+},{
+  "_id": "0003-000106-000099",
+  "class": "Mob_",
+  "nameId": 99,
+  "mapId": 3,
+  "positionId": 106,
+  "name_jp": "スクレーパー",
+  "positions": [
+    {
+      "_id": "0003-000106",
+      "posX": 330,
+      "posY": 100,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 106
+    }
+  ]
+},{
+  "_id": "0003-000110-000100",
+  "class": "Mob_",
+  "nameId": 100,
+  "mapId": 3,
+  "positionId": 110,
+  "name_jp": "ダイナマイト",
+  "positions": [
+    {
+      "_id": "0003-000110",
+      "posX": 113,
+      "posY": 220,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 110
+    }
+  ]
+},{
+  "_id": "0003-000111-000101",
+  "class": "Mob_",
+  "nameId": 101,
+  "mapId": 3,
+  "positionId": 111,
+  "name_jp": "ダウンフォール・アラーム",
+  "positions": [
+    {
+      "_id": "0003-000111",
+      "posX": 334,
+      "posY": 261,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 111
+    }
+  ]
+},{
+  "_id": "0003-000111-000102",
+  "class": "Mob_",
+  "nameId": 102,
+  "mapId": 3,
+  "positionId": 111,
+  "name_jp": "ダウンフォール・ドロイド",
+  "positions": [
+    {
+      "_id": "0003-000111",
+      "posX": 334,
+      "posY": 261,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 111
+    }
+  ]
+},{
+  "_id": "0003-000111-000103",
+  "class": "Mob_",
+  "nameId": 103,
+  "mapId": 3,
+  "positionId": 111,
+  "name_jp": "ダウンフォール・ハンダー",
+  "positions": [
+    {
+      "_id": "0003-000111",
+      "posX": 334,
+      "posY": 261,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 111
+    }
+  ]
+},{
+  "_id": "0003-000105-000104",
+  "class": "Mob_",
+  "nameId": 104,
+  "mapId": 3,
+  "positionId": 105,
+  "name_jp": "ダフニア",
+  "positions": [
+    {
+      "_id": "0003-000105",
+      "posX": 238,
+      "posY": 217,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 105
+    }
+  ]
+},{
+  "_id": "0003-000112-000105",
+  "class": "Mob_",
+  "nameId": 105,
+  "mapId": 3,
+  "positionId": 112,
+  "name_jp": "トリマー",
+  "positions": [
+    {
+      "_id": "0003-000112",
+      "posX": 220,
+      "posY": 330,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 112
+    }
+  ]
+},{
+  "_id": "0003-000109-000106",
+  "class": "Mob_",
+  "nameId": 106,
+  "mapId": 3,
+  "positionId": 109,
+  "name_jp": "パノプト",
+  "positions": [
+    {
+      "_id": "0003-000109",
+      "posX": 100,
+      "posY": 340,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 109
+    }
+  ]
+},{
+  "_id": "0003-000113-000107",
+  "class": "Mob_",
+  "nameId": 107,
+  "mapId": 3,
+  "positionId": 113,
+  "name_jp": "ムース",
+  "positions": [
+    {
+      "_id": "0003-000113",
+      "posX": 160,
+      "posY": 250,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 113
+    }
+  ]
+},{
+  "_id": "0003-000114-000108",
+  "class": "Mob_",
+  "nameId": 108,
+  "mapId": 3,
+  "positionId": 114,
+  "name_jp": "ルナテンダー",
+  "positions": [
+    {
+      "_id": "0003-000114",
+      "posX": 280,
+      "posY": 300,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 114
+    }
+  ]
+},{
+  "_id": "0003-000115-000109",
+  "class": "Mob_",
+  "nameId": 109,
+  "mapId": 3,
+  "positionId": 115,
+  "name_jp": "レゴリス",
+  "positions": [
+    {
+      "_id": "0003-000115",
+      "posX": 286,
+      "posY": 362,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 115
+    }
+  ]
+},{
+  "_id": "0003-000116-000110",
+  "class": "Mob_",
+  "nameId": 110,
+  "mapId": 3,
+  "positionId": 116,
+  "name_jp": "ワンダラー",
+  "positions": [
+    {
+      "_id": "0003-000116",
+      "posX": 270,
+      "posY": 260,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 116
+    }
+  ]
+},{
+  "_id": "0004-000131-000111",
+  "class": "Mob_",
+  "nameId": 111,
+  "mapId": 4,
+  "positionId": 131,
+  "name_jp": "アカンサ",
+  "positions": [
+    {
+      "_id": "0004-000131",
+      "posX": 300,
+      "posY": 80,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 131
+    }
+  ]
+},{
+  "_id": "0004-000132-000112",
+  "class": "Mob_",
+  "nameId": 112,
+  "mapId": 4,
+  "positionId": 132,
+  "name_jp": "イアンティネ・ペタルダ",
+  "positions": [
+    {
+      "_id": "0004-000132",
+      "posX": 88,
+      "posY": 323,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 132
+    }
+  ]
+},{
+  "_id": "0004-000133-000113",
+  "class": "Mob_",
+  "nameId": 113,
+  "mapId": 4,
+  "positionId": 133,
+  "name_jp": "イアンティネ・ペタルダ",
+  "positions": [
+    {
+      "_id": "0004-000133",
+      "posX": 246,
+      "posY": 240,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 133
+    }
+  ]
+},{
+  "_id": "0004-000134-000114",
+  "class": "Mob_",
+  "nameId": 114,
+  "mapId": 4,
+  "positionId": 134,
+  "name_jp": "ウラヌー・メデューサ",
+  "positions": [
+    {
+      "_id": "0004-000134",
+      "posX": 335,
+      "posY": 155,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 134
+    }
+  ]
+},{
+  "_id": "0004-000135-000115",
+  "class": "Mob_",
+  "nameId": 115,
+  "mapId": 4,
+  "positionId": 135,
+  "name_jp": "エルピスタウロス",
+  "positions": [
+    {
+      "_id": "0004-000135",
+      "posX": 142,
+      "posY": 179,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 135
+    }
+  ]
+},{
+  "_id": "0004-000136-000116",
+  "class": "Mob_",
+  "nameId": 116,
+  "mapId": 4,
+  "positionId": 136,
+  "name_jp": "イグドリア",
+  "positions": [
+    {
+      "_id": "0004-000136",
+      "posX": 176,
+      "posY": 282,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 136
+    }
+  ]
+},{
+  "_id": "0004-000137-000117",
+  "class": "Mob_",
+  "nameId": 117,
+  "mapId": 4,
+  "positionId": 137,
+  "name_jp": "オキュペテ",
+  "positions": [
+    {
+      "_id": "0004-000137",
+      "posX": 236,
+      "posY": 198,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 137
+    }
+  ]
+},{
+  "_id": "0004-000138-000118",
+  "class": "Mob_",
+  "nameId": 118,
+  "mapId": 4,
+  "positionId": 138,
+  "name_jp": "オピオタウロス",
+  "positions": [
+    {
+      "_id": "0004-000138",
+      "posX": 133,
+      "posY": 71,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 138
+    }
+  ]
+},{
+  "_id": "0004-000139-000119",
+  "class": "Mob_",
+  "nameId": 119,
+  "mapId": 4,
+  "positionId": 139,
+  "name_jp": "オピオン",
+  "positions": [
+    {
+      "_id": "0004-000139",
+      "posX": 255,
+      "posY": 340,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 139
+    }
+  ]
+},{
+  "_id": "0004-000140-000120",
+  "class": "Mob_",
+  "nameId": 120,
+  "mapId": 4,
+  "positionId": 140,
+  "name_jp": "オリジン・ヒッポセルフ",
+  "positions": [
+    {
+      "_id": "0004-000140",
+      "posX": 60,
+      "posY": 193,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 140
+    }
+  ]
+},{
+  "_id": "0004-000132-000121",
+  "class": "Mob_",
+  "nameId": 121,
+  "mapId": 4,
+  "positionId": 132,
+  "name_jp": "キアネ・ペタルダ",
+  "positions": [
+    {
+      "_id": "0004-000132",
+      "posX": 88,
+      "posY": 323,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 132
+    }
+  ]
+},{
+  "_id": "0004-000133-000122",
+  "class": "Mob_",
+  "nameId": 122,
+  "mapId": 4,
+  "positionId": 133,
+  "name_jp": "キアネ・ペタルダ",
+  "positions": [
+    {
+      "_id": "0004-000133",
+      "posX": 246,
+      "posY": 240,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 133
+    }
+  ]
+},{
+  "_id": "0004-000141-000123",
+  "class": "Mob_",
+  "nameId": 123,
+  "mapId": 4,
+  "positionId": 141,
+  "name_jp": "グリュプス",
+  "positions": [
+    {
+      "_id": "0004-000141",
+      "posX": 88,
+      "posY": 294,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 141
+    }
+  ]
+},{
+  "_id": "0004-000132-000124",
+  "class": "Mob_",
+  "nameId": 124,
+  "mapId": 4,
+  "positionId": 132,
+  "name_jp": "コーキネ・ペタルダ",
+  "positions": [
+    {
+      "_id": "0004-000132",
+      "posX": 88,
+      "posY": 323,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 132
+    }
+  ]
+},{
+  "_id": "0004-000133-000125",
+  "class": "Mob_",
+  "nameId": 125,
+  "mapId": 4,
+  "positionId": 133,
+  "name_jp": "コーキネ・ペタルダ",
+  "positions": [
+    {
+      "_id": "0004-000133",
+      "posX": 246,
+      "posY": 240,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 133
+    }
+  ]
+},{
+  "_id": "0004-000142-000126",
+  "class": "Mob_",
+  "nameId": 126,
+  "mapId": 4,
+  "positionId": 142,
+  "name_jp": "ハルピュイア",
+  "positions": [
+    {
+      "_id": "0004-000142",
+      "posX": 164,
+      "posY": 97,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 142
+    }
+  ]
+},{
+  "_id": "0004-000143-000127",
+  "class": "Mob_",
+  "nameId": 127,
+  "mapId": 4,
+  "positionId": 143,
+  "name_jp": "バード・オブ・エルピス",
+  "positions": [
+    {
+      "_id": "0004-000143",
+      "posX": 295,
+      "posY": 245,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 143
+    }
+  ]
+},{
+  "_id": "0004-000144-000128",
+  "class": "Mob_",
+  "nameId": 128,
+  "mapId": 4,
+  "positionId": 144,
+  "name_jp": "ヒッペー",
+  "positions": [
+    {
+      "_id": "0004-000144",
+      "posX": 336,
+      "posY": 135,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 144
+    }
+  ]
+},{
+  "_id": "0004-000145-000129",
+  "class": "Mob_",
+  "nameId": 129,
+  "mapId": 4,
+  "positionId": 145,
+  "name_jp": "ファノプシュケ",
+  "positions": [
+    {
+      "_id": "0004-000145",
+      "posX": 89,
+      "posY": 356,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 145
+    }
+  ]
+},{
+  "_id": "0004-000146-000130",
+  "class": "Mob_",
+  "nameId": 130,
+  "mapId": 4,
+  "positionId": 146,
+  "name_jp": "ペガソス",
+  "positions": [
+    {
+      "_id": "0004-000146",
+      "posX": 95,
+      "posY": 145,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 146
+    }
+  ]
+},{
+  "_id": "0004-000147-000131",
+  "class": "Mob_",
+  "nameId": 131,
+  "mapId": 4,
+  "positionId": 147,
+  "name_jp": "マーカス・モルボル",
+  "positions": [
+    {
+      "_id": "0004-000147",
+      "posX": 250,
+      "posY": 100,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 147
+    }
+  ]
+},{
+  "_id": "0004-000147-000132",
+  "class": "Mob_",
+  "nameId": 132,
+  "mapId": 4,
+  "positionId": 147,
+  "name_jp": "メデューサ",
+  "positions": [
+    {
+      "_id": "0004-000147",
+      "posX": 250,
+      "posY": 100,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 147
+    }
+  ]
+},{
+  "_id": "0004-000148-000133",
+  "class": "Mob_",
+  "nameId": 133,
+  "mapId": 4,
+  "positionId": 148,
+  "name_jp": "メラニオン",
+  "positions": [
+    {
+      "_id": "0004-000148",
+      "posX": 97,
+      "posY": 232,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 148
+    }
+  ]
+},{
+  "_id": "0004-000149-000134",
+  "class": "Mob_",
+  "nameId": 134,
+  "mapId": 4,
+  "positionId": 149,
+  "name_jp": "モノセロス",
+  "positions": [
+    {
+      "_id": "0004-000149",
+      "posX": 252,
+      "posY": 299,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 149
+    }
+  ]
+},{
+  "_id": "0004-000150-000135",
+  "class": "Mob_",
+  "nameId": 135,
+  "mapId": 4,
+  "positionId": 150,
+  "name_jp": "リコペルシクム",
+  "positions": [
+    {
+      "_id": "0004-000150",
+      "posX": 253,
+      "posY": 145,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 150
+    }
+  ]
+},{
+  "_id": "0004-000151-000136",
+  "class": "Mob_",
+  "nameId": 136,
+  "mapId": 4,
+  "positionId": 151,
+  "name_jp": "レモラ",
+  "positions": [
+    {
+      "_id": "0004-000151",
+      "posX": 334,
+      "posY": 175,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 151
+    }
+  ]
+},{
+  "_id": "0004-000152-000137",
+  "class": "Mob_",
+  "nameId": 137,
+  "mapId": 4,
+  "positionId": 152,
+  "name_jp": "ロティス",
+  "positions": [
+    {
+      "_id": "0004-000152",
+      "posX": 205,
+      "posY": 74,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 152
+    }
+  ]
+},{
+  "_id": "0005-000168-000138",
+  "class": "Mob_",
+  "nameId": 138,
+  "mapId": 5,
+  "positionId": 168,
+  "name_jp": "アザーワン",
+  "positions": [
+    {
+      "_id": "0005-000168",
+      "posX": 141,
+      "posY": 139,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 168
+    }
+  ]
+},{
+  "_id": "0005-000169-000139",
+  "class": "Mob_",
+  "nameId": 139,
+  "mapId": 5,
+  "positionId": 169,
+  "name_jp": "ステラ・アンフィプテレ",
+  "positions": [
+    {
+      "_id": "0005-000169",
+      "posX": 102,
+      "posY": 312,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 169
+    }
+  ]
+},{
+  "_id": "0005-000170-000140",
+  "class": "Mob_",
+  "nameId": 140,
+  "mapId": 5,
+  "positionId": 170,
+  "name_jp": "ステラ・カラペスドラゴン",
+  "positions": [
+    {
+      "_id": "0005-000170",
+      "posX": 100,
+      "posY": 230,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 170
+    }
+  ]
+},{
+  "_id": "0005-000171-000141",
+  "class": "Mob_",
+  "nameId": 141,
+  "mapId": 5,
+  "positionId": 171,
+  "name_jp": "ステラ・ドラゴン",
+  "positions": [
+    {
+      "_id": "0005-000171",
+      "posX": 210,
+      "posY": 330,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 171
+    }
+  ]
+},{
+  "_id": "0005-000172-000142",
+  "class": "Mob_",
+  "nameId": 142,
+  "mapId": 5,
+  "positionId": 172,
+  "name_jp": "ステラ・ドラゴンフライ",
+  "positions": [
+    {
+      "_id": "0005-000172",
+      "posX": 162,
+      "posY": 357,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 172
+    }
+  ]
+},{
+  "_id": "0005-000173-000143",
+  "class": "Mob_",
+  "nameId": 143,
+  "mapId": 5,
+  "positionId": 173,
+  "name_jp": "ステラ・ブロビニャク",
+  "positions": [
+    {
+      "_id": "0005-000173",
+      "posX": 158,
+      "posY": 274,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 173
+    }
+  ]
+},{
+  "_id": "0005-000174-000144",
+  "class": "Mob_",
+  "nameId": 144,
+  "mapId": 5,
+  "positionId": 174,
+  "name_jp": "ステラ・レッサードラゴン",
+  "positions": [
+    {
+      "_id": "0005-000174",
+      "posX": 150,
+      "posY": 315,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 174
+    }
+  ]
+},{
+  "_id": "0005-000175-000145",
+  "class": "Mob_",
+  "nameId": 145,
+  "mapId": 5,
+  "positionId": 175,
+  "name_jp": "ステラ・ワイバーン",
+  "positions": [
+    {
+      "_id": "0005-000175",
+      "posX": 95,
+      "posY": 202,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 175
+    }
+  ]
+},{
+  "_id": "0005-000176-000146",
+  "class": "Mob_",
+  "nameId": 146,
+  "mapId": 5,
+  "positionId": 176,
+  "name_jp": "デルタ",
+  "positions": [
+    {
+      "_id": "0005-000176",
+      "posX": 339,
+      "posY": 298,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 176
+    }
+  ]
+},{
+  "_id": "0005-000177-000147",
+  "class": "Mob_",
+  "nameId": 147,
+  "mapId": 5,
+  "positionId": 177,
+  "name_jp": "ドリフティング・イーア",
+  "positions": [
+    {
+      "_id": "0005-000177",
+      "posX": 215,
+      "posY": 115,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 177
+    }
+  ]
+},{
+  "_id": "0005-000178-000148",
+  "class": "Mob_",
+  "nameId": 148,
+  "mapId": 5,
+  "positionId": 178,
+  "name_jp": "ブロークン・オミクロン",
+  "positions": [
+    {
+      "_id": "0005-000178",
+      "posX": 341,
+      "posY": 269,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 178
+    }
+  ]
+},{
+  "_id": "0005-000178-000149",
+  "class": "Mob_",
+  "nameId": 149,
+  "mapId": 5,
+  "positionId": 178,
+  "name_jp": "ベータ",
+  "positions": [
+    {
+      "_id": "0005-000178",
+      "posX": 341,
+      "posY": 269,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 178
+    }
+  ]
+},{
+  "_id": "0005-000179-000150",
+  "class": "Mob_",
+  "nameId": 150,
+  "mapId": 5,
+  "positionId": 179,
+  "name_jp": "ラムダ",
+  "positions": [
+    {
+      "_id": "0005-000179",
+      "posX": 366,
+      "posY": 258,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 179
+    }
+  ]
+},{
+  "_id": "0005-000180-000151",
+  "class": "Mob_",
+  "nameId": 151,
+  "mapId": 5,
+  "positionId": 180,
+  "name_jp": "ルミニオン",
+  "positions": [
+    {
+      "_id": "0005-000180",
+      "posX": 185,
+      "posY": 122,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 180
+    }
+  ]
+},{
+  "_id": "0005-000181-000152",
+  "class": "Mob_",
+  "nameId": 152,
+  "mapId": 5,
+  "positionId": 181,
+  "name_jp": "ルミニオン",
+  "positions": [
+    {
+      "_id": "0005-000181",
+      "posX": 282,
+      "posY": 95,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 181
+    }
+  ]
+},{
+  "_id": "0005-000182-000153",
+  "class": "Mob_",
+  "nameId": 153,
+  "mapId": 5,
+  "positionId": 182,
+  "name_jp": "ルミニオン",
+  "positions": [
+    {
+      "_id": "0005-000182",
+      "posX": 294,
+      "posY": 141,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 182
+    }
+  ]
+},{
+  "_id": "0005-000183-000154",
+  "class": "Mob_",
+  "nameId": 154,
+  "mapId": 5,
+  "positionId": 183,
+  "name_jp": "レベルトリッカー",
+  "positions": [
+    {
+      "_id": "0005-000183",
+      "posX": 308,
+      "posY": 260,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 183
+    }
+  ]
+},{
+  "_id": "0000-000026-000155",
+  "class": "Mob_S+",
+  "nameId": 155,
+  "mapId": 0,
+  "positionId": 26,
+  "name_jp": "ケール",
+  "positions": [
+    {
+      "_id": "0000-000026",
+      "posX": 256,
+      "posY": 126,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 26
+    }
+  ]
+},{
+  "_id": "0000-000027-000156",
+  "class": "Mob_S",
+  "nameId": 156,
+  "mapId": 0,
+  "positionId": 27,
+  "name_jp": "ブーフールー",
+  "positions": [
+    {
+      "_id": "0000-000027",
+      "posX": 300,
+      "posY": 85,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 27
+    }
+  ]
+},{
+  "_id": "0000-000028-000157",
+  "class": "Mob_S",
+  "nameId": 157,
+  "mapId": 0,
+  "positionId": 28,
+  "name_jp": "ブーフールー",
+  "positions": [
+    {
+      "_id": "0000-000028",
+      "posX": 166,
+      "posY": 97,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 28
+    }
+  ]
+},{
+  "_id": "0000-000029-000158",
+  "class": "Mob_S",
+  "nameId": 158,
+  "mapId": 0,
+  "positionId": 29,
+  "name_jp": "ブーフールー",
+  "positions": [
+    {
+      "_id": "0000-000029",
+      "posX": 342,
+      "posY": 135,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 29
+    }
+  ]
+},{
+  "_id": "0000-000030-000159",
+  "class": "Mob_S",
+  "nameId": 159,
+  "mapId": 0,
+  "positionId": 30,
+  "name_jp": "ブーフールー",
+  "positions": [
+    {
+      "_id": "0000-000030",
+      "posX": 165,
+      "posY": 165,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 30
+    }
+  ]
+},{
+  "_id": "0000-000031-000160",
+  "class": "Mob_S",
+  "nameId": 160,
+  "mapId": 0,
+  "positionId": 31,
+  "name_jp": "ブーフールー",
+  "positions": [
+    {
+      "_id": "0000-000031",
+      "posX": 107,
+      "posY": 188,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 31
+    }
+  ]
+},{
+  "_id": "0000-000032-000161",
+  "class": "Mob_S",
+  "nameId": 161,
+  "mapId": 0,
+  "positionId": 32,
+  "name_jp": "ブーフールー",
+  "positions": [
+    {
+      "_id": "0000-000032",
+      "posX": 257,
+      "posY": 247,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 32
+    }
+  ]
+},{
+  "_id": "0000-000033-000162",
+  "class": "Mob_S",
+  "nameId": 162,
+  "mapId": 0,
+  "positionId": 33,
+  "name_jp": "ブーフールー",
+  "positions": [
+    {
+      "_id": "0000-000033",
+      "posX": 320,
+      "posY": 260,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 33
+    }
+  ]
+},{
+  "_id": "0000-000034-000163",
+  "class": "Mob_S",
+  "nameId": 163,
+  "mapId": 0,
+  "positionId": 34,
+  "name_jp": "ブーフールー",
+  "positions": [
+    {
+      "_id": "0000-000034",
+      "posX": 60,
+      "posY": 335,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 34
+    }
+  ]
+},{
+  "_id": "0000-000035-000164",
+  "class": "Mob_S",
+  "nameId": 164,
+  "mapId": 0,
+  "positionId": 35,
+  "name_jp": "ブーフールー",
+  "positions": [
+    {
+      "_id": "0000-000035",
+      "posX": 123,
+      "posY": 348,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 35
+    }
+  ]
+},{
+  "_id": "0000-000036-000165",
+  "class": "Mob_S",
+  "nameId": 165,
+  "mapId": 0,
+  "positionId": 36,
+  "name_jp": "ブーフールー",
+  "positions": [
+    {
+      "_id": "0000-000036",
+      "posX": 196,
+      "posY": 382,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 36
+    }
+  ]
+},{
+  "_id": "0000-000027-000166",
+  "class": "Mob_A",
+  "nameId": 166,
+  "mapId": 0,
+  "positionId": 27,
+  "name_jp": "ストーシー",
+  "positions": [
+    {
+      "_id": "0000-000027",
+      "posX": 300,
+      "posY": 85,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 27
+    }
+  ]
+},{
+  "_id": "0000-000028-000167",
+  "class": "Mob_A",
+  "nameId": 167,
+  "mapId": 0,
+  "positionId": 28,
+  "name_jp": "ストーシー",
+  "positions": [
+    {
+      "_id": "0000-000028",
+      "posX": 166,
+      "posY": 97,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 28
+    }
+  ]
+},{
+  "_id": "0000-000029-000168",
+  "class": "Mob_A",
+  "nameId": 168,
+  "mapId": 0,
+  "positionId": 29,
+  "name_jp": "ストーシー",
+  "positions": [
+    {
+      "_id": "0000-000029",
+      "posX": 342,
+      "posY": 135,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 29
+    }
+  ]
+},{
+  "_id": "0000-000030-000169",
+  "class": "Mob_A",
+  "nameId": 169,
+  "mapId": 0,
+  "positionId": 30,
+  "name_jp": "ストーシー",
+  "positions": [
+    {
+      "_id": "0000-000030",
+      "posX": 165,
+      "posY": 165,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 30
+    }
+  ]
+},{
+  "_id": "0000-000031-000170",
+  "class": "Mob_A",
+  "nameId": 170,
+  "mapId": 0,
+  "positionId": 31,
+  "name_jp": "ストーシー",
+  "positions": [
+    {
+      "_id": "0000-000031",
+      "posX": 107,
+      "posY": 188,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 31
+    }
+  ]
+},{
+  "_id": "0000-000032-000171",
+  "class": "Mob_A",
+  "nameId": 171,
+  "mapId": 0,
+  "positionId": 32,
+  "name_jp": "ストーシー",
+  "positions": [
+    {
+      "_id": "0000-000032",
+      "posX": 257,
+      "posY": 247,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 32
+    }
+  ]
+},{
+  "_id": "0000-000033-000172",
+  "class": "Mob_A",
+  "nameId": 172,
+  "mapId": 0,
+  "positionId": 33,
+  "name_jp": "ストーシー",
+  "positions": [
+    {
+      "_id": "0000-000033",
+      "posX": 320,
+      "posY": 260,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 33
+    }
+  ]
+},{
+  "_id": "0000-000034-000173",
+  "class": "Mob_A",
+  "nameId": 173,
+  "mapId": 0,
+  "positionId": 34,
+  "name_jp": "ストーシー",
+  "positions": [
+    {
+      "_id": "0000-000034",
+      "posX": 60,
+      "posY": 335,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 34
+    }
+  ]
+},{
+  "_id": "0000-000035-000174",
+  "class": "Mob_A",
+  "nameId": 174,
+  "mapId": 0,
+  "positionId": 35,
+  "name_jp": "ストーシー",
+  "positions": [
+    {
+      "_id": "0000-000035",
+      "posX": 123,
+      "posY": 348,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 35
+    }
+  ]
+},{
+  "_id": "0000-000036-000175",
+  "class": "Mob_A",
+  "nameId": 175,
+  "mapId": 0,
+  "positionId": 36,
+  "name_jp": "ストーシー",
+  "positions": [
+    {
+      "_id": "0000-000036",
+      "posX": 196,
+      "posY": 382,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 36
+    }
+  ]
+},{
+  "_id": "0000-000027-000176",
+  "class": "Mob_A",
+  "nameId": 176,
+  "mapId": 0,
+  "positionId": 27,
+  "name_jp": "フルドラ",
+  "positions": [
+    {
+      "_id": "0000-000027",
+      "posX": 300,
+      "posY": 85,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 27
+    }
+  ]
+},{
+  "_id": "0000-000028-000177",
+  "class": "Mob_A",
+  "nameId": 177,
+  "mapId": 0,
+  "positionId": 28,
+  "name_jp": "フルドラ",
+  "positions": [
+    {
+      "_id": "0000-000028",
+      "posX": 166,
+      "posY": 97,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 28
+    }
+  ]
+},{
+  "_id": "0000-000029-000178",
+  "class": "Mob_A",
+  "nameId": 178,
+  "mapId": 0,
+  "positionId": 29,
+  "name_jp": "フルドラ",
+  "positions": [
+    {
+      "_id": "0000-000029",
+      "posX": 342,
+      "posY": 135,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 29
+    }
+  ]
+},{
+  "_id": "0000-000030-000179",
+  "class": "Mob_A",
+  "nameId": 179,
+  "mapId": 0,
+  "positionId": 30,
+  "name_jp": "フルドラ",
+  "positions": [
+    {
+      "_id": "0000-000030",
+      "posX": 165,
+      "posY": 165,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 30
+    }
+  ]
+},{
+  "_id": "0000-000031-000180",
+  "class": "Mob_A",
+  "nameId": 180,
+  "mapId": 0,
+  "positionId": 31,
+  "name_jp": "フルドラ",
+  "positions": [
+    {
+      "_id": "0000-000031",
+      "posX": 107,
+      "posY": 188,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 31
+    }
+  ]
+},{
+  "_id": "0000-000032-000181",
+  "class": "Mob_A",
+  "nameId": 181,
+  "mapId": 0,
+  "positionId": 32,
+  "name_jp": "フルドラ",
+  "positions": [
+    {
+      "_id": "0000-000032",
+      "posX": 257,
+      "posY": 247,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 32
+    }
+  ]
+},{
+  "_id": "0000-000033-000182",
+  "class": "Mob_A",
+  "nameId": 182,
+  "mapId": 0,
+  "positionId": 33,
+  "name_jp": "フルドラ",
+  "positions": [
+    {
+      "_id": "0000-000033",
+      "posX": 320,
+      "posY": 260,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 33
+    }
+  ]
+},{
+  "_id": "0000-000034-000183",
+  "class": "Mob_A",
+  "nameId": 183,
+  "mapId": 0,
+  "positionId": 34,
+  "name_jp": "フルドラ",
+  "positions": [
+    {
+      "_id": "0000-000034",
+      "posX": 60,
+      "posY": 335,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 34
+    }
+  ]
+},{
+  "_id": "0000-000035-000184",
+  "class": "Mob_A",
+  "nameId": 184,
+  "mapId": 0,
+  "positionId": 35,
+  "name_jp": "フルドラ",
+  "positions": [
+    {
+      "_id": "0000-000035",
+      "posX": 123,
+      "posY": 348,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 35
+    }
+  ]
+},{
+  "_id": "0000-000036-000185",
+  "class": "Mob_A",
+  "nameId": 185,
+  "mapId": 0,
+  "positionId": 36,
+  "name_jp": "フルドラ",
+  "positions": [
+    {
+      "_id": "0000-000036",
+      "posX": 196,
+      "posY": 382,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 36
+    }
+  ]
+},{
+  "_id": "0000-000027-000186",
+  "class": "Mob_B",
+  "nameId": 186,
+  "mapId": 0,
+  "positionId": 27,
+  "name_jp": "草賢人",
+  "positions": [
+    {
+      "_id": "0000-000027",
+      "posX": 300,
+      "posY": 85,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 27
+    }
+  ]
+},{
+  "_id": "0000-000028-000187",
+  "class": "Mob_B",
+  "nameId": 187,
+  "mapId": 0,
+  "positionId": 28,
+  "name_jp": "草賢人",
+  "positions": [
+    {
+      "_id": "0000-000028",
+      "posX": 166,
+      "posY": 97,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 28
+    }
+  ]
+},{
+  "_id": "0000-000029-000188",
+  "class": "Mob_B",
+  "nameId": 188,
+  "mapId": 0,
+  "positionId": 29,
+  "name_jp": "草賢人",
+  "positions": [
+    {
+      "_id": "0000-000029",
+      "posX": 342,
+      "posY": 135,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 29
+    }
+  ]
+},{
+  "_id": "0000-000033-000189",
+  "class": "Mob_B",
+  "nameId": 189,
+  "mapId": 0,
+  "positionId": 33,
+  "name_jp": "草賢人",
+  "positions": [
+    {
+      "_id": "0000-000033",
+      "posX": 320,
+      "posY": 260,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 33
+    }
+  ]
+},{
+  "_id": "0000-000030-000190",
+  "class": "Mob_B",
+  "nameId": 190,
+  "mapId": 0,
+  "positionId": 30,
+  "name_jp": "ウーヴウーヴ",
+  "positions": [
+    {
+      "_id": "0000-000030",
+      "posX": 165,
+      "posY": 165,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 30
+    }
+  ]
+},{
+  "_id": "0000-000031-000191",
+  "class": "Mob_B",
+  "nameId": 191,
+  "mapId": 0,
+  "positionId": 31,
+  "name_jp": "ウーヴウーヴ",
+  "positions": [
+    {
+      "_id": "0000-000031",
+      "posX": 107,
+      "posY": 188,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 31
+    }
+  ]
+},{
+  "_id": "0000-000032-000192",
+  "class": "Mob_B",
+  "nameId": 192,
+  "mapId": 0,
+  "positionId": 32,
+  "name_jp": "ウーヴウーヴ",
+  "positions": [
+    {
+      "_id": "0000-000032",
+      "posX": 257,
+      "posY": 247,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 32
+    }
+  ]
+},{
+  "_id": "0000-000034-000193",
+  "class": "Mob_B",
+  "nameId": 193,
+  "mapId": 0,
+  "positionId": 34,
+  "name_jp": "ウーヴウーヴ",
+  "positions": [
+    {
+      "_id": "0000-000034",
+      "posX": 60,
+      "posY": 335,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 34
+    }
+  ]
+},{
+  "_id": "0000-000035-000194",
+  "class": "Mob_B",
+  "nameId": 194,
+  "mapId": 0,
+  "positionId": 35,
+  "name_jp": "ウーヴウーヴ",
+  "positions": [
+    {
+      "_id": "0000-000035",
+      "posX": 123,
+      "posY": 348,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 35
+    }
+  ]
+},{
+  "_id": "0000-000036-000195",
+  "class": "Mob_B",
+  "nameId": 195,
+  "mapId": 0,
+  "positionId": 36,
+  "name_jp": "ウーヴウーヴ",
+  "positions": [
+    {
+      "_id": "0000-000036",
+      "posX": 196,
+      "posY": 382,
+      "weight": 0,
+      "mapId": 0,
+      "positionId": 36
+    }
+  ]
+},{
+  "_id": "0001-000060-000196",
+  "class": "Mob_S+",
+  "nameId": 196,
+  "mapId": 1,
+  "positionId": 60,
+  "name_jp": "ケール",
+  "positions": [
+    {
+      "_id": "0001-000060",
+      "posX": 243,
+      "posY": 175,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 60
+    }
+  ]
+},{
+  "_id": "0001-000066-000197",
+  "class": "Mob_S",
+  "nameId": 197,
+  "mapId": 1,
+  "positionId": 66,
+  "name_jp": "スパティカ",
+  "positions": [
+    {
+      "_id": "0001-000066",
+      "posX": 176,
+      "posY": 164,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 66
+    }
+  ]
+},{
+  "_id": "0001-000067-000198",
+  "class": "Mob_S",
+  "nameId": 198,
+  "mapId": 1,
+  "positionId": 67,
+  "name_jp": "スパティカ",
+  "positions": [
+    {
+      "_id": "0001-000067",
+      "posX": 299,
+      "posY": 132,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 67
+    }
+  ]
+},{
+  "_id": "0001-000068-000199",
+  "class": "Mob_S",
+  "nameId": 199,
+  "mapId": 1,
+  "positionId": 68,
+  "name_jp": "スパティカ",
+  "positions": [
+    {
+      "_id": "0001-000068",
+      "posX": 143,
+      "posY": 123,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 68
+    }
+  ]
+},{
+  "_id": "0001-000069-000200",
+  "class": "Mob_S",
+  "nameId": 200,
+  "mapId": 1,
+  "positionId": 69,
+  "name_jp": "スパティカ",
+  "positions": [
+    {
+      "_id": "0001-000069",
+      "posX": 182,
+      "posY": 113,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 69
+    }
+  ]
+},{
+  "_id": "0001-000061-000201",
+  "class": "Mob_S",
+  "nameId": 201,
+  "mapId": 1,
+  "positionId": 61,
+  "name_jp": "スパティカ",
+  "positions": [
+    {
+      "_id": "0001-000061",
+      "posX": 207,
+      "posY": 314,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 61
+    }
+  ]
+},{
+  "_id": "0001-000062-000202",
+  "class": "Mob_S",
+  "nameId": 202,
+  "mapId": 1,
+  "positionId": 62,
+  "name_jp": "スパティカ",
+  "positions": [
+    {
+      "_id": "0001-000062",
+      "posX": 270,
+      "posY": 247,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 62
+    }
+  ]
+},{
+  "_id": "0001-000063-000203",
+  "class": "Mob_S",
+  "nameId": 203,
+  "mapId": 1,
+  "positionId": 63,
+  "name_jp": "スパティカ",
+  "positions": [
+    {
+      "_id": "0001-000063",
+      "posX": 185,
+      "posY": 235,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 63
+    }
+  ]
+},{
+  "_id": "0001-000064-000204",
+  "class": "Mob_S",
+  "nameId": 204,
+  "mapId": 1,
+  "positionId": 64,
+  "name_jp": "スパティカ",
+  "positions": [
+    {
+      "_id": "0001-000064",
+      "posX": 267,
+      "posY": 206,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 64
+    }
+  ]
+},{
+  "_id": "0001-000065-000205",
+  "class": "Mob_S",
+  "nameId": 205,
+  "mapId": 1,
+  "positionId": 65,
+  "name_jp": "スパティカ",
+  "positions": [
+    {
+      "_id": "0001-000065",
+      "posX": 325,
+      "posY": 201,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 65
+    }
+  ]
+},{
+  "_id": "0001-000066-000206",
+  "class": "Mob_A",
+  "nameId": 206,
+  "mapId": 1,
+  "positionId": 66,
+  "name_jp": "ユラン",
+  "positions": [
+    {
+      "_id": "0001-000066",
+      "posX": 176,
+      "posY": 164,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 66
+    }
+  ]
+},{
+  "_id": "0001-000067-000207",
+  "class": "Mob_A",
+  "nameId": 207,
+  "mapId": 1,
+  "positionId": 67,
+  "name_jp": "ユラン",
+  "positions": [
+    {
+      "_id": "0001-000067",
+      "posX": 299,
+      "posY": 132,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 67
+    }
+  ]
+},{
+  "_id": "0001-000068-000208",
+  "class": "Mob_A",
+  "nameId": 208,
+  "mapId": 1,
+  "positionId": 68,
+  "name_jp": "ユラン",
+  "positions": [
+    {
+      "_id": "0001-000068",
+      "posX": 143,
+      "posY": 123,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 68
+    }
+  ]
+},{
+  "_id": "0001-000069-000209",
+  "class": "Mob_A",
+  "nameId": 209,
+  "mapId": 1,
+  "positionId": 69,
+  "name_jp": "ユラン",
+  "positions": [
+    {
+      "_id": "0001-000069",
+      "posX": 182,
+      "posY": 113,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 69
+    }
+  ]
+},{
+  "_id": "0001-000061-000210",
+  "class": "Mob_A",
+  "nameId": 210,
+  "mapId": 1,
+  "positionId": 61,
+  "name_jp": "ユラン",
+  "positions": [
+    {
+      "_id": "0001-000061",
+      "posX": 207,
+      "posY": 314,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 61
+    }
+  ]
+},{
+  "_id": "0001-000062-000211",
+  "class": "Mob_A",
+  "nameId": 211,
+  "mapId": 1,
+  "positionId": 62,
+  "name_jp": "ユラン",
+  "positions": [
+    {
+      "_id": "0001-000062",
+      "posX": 270,
+      "posY": 247,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 62
+    }
+  ]
+},{
+  "_id": "0001-000063-000212",
+  "class": "Mob_A",
+  "nameId": 212,
+  "mapId": 1,
+  "positionId": 63,
+  "name_jp": "ユラン",
+  "positions": [
+    {
+      "_id": "0001-000063",
+      "posX": 185,
+      "posY": 235,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 63
+    }
+  ]
+},{
+  "_id": "0001-000064-000213",
+  "class": "Mob_A",
+  "nameId": 213,
+  "mapId": 1,
+  "positionId": 64,
+  "name_jp": "ユラン",
+  "positions": [
+    {
+      "_id": "0001-000064",
+      "posX": 267,
+      "posY": 206,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 64
+    }
+  ]
+},{
+  "_id": "0001-000065-000214",
+  "class": "Mob_A",
+  "nameId": 214,
+  "mapId": 1,
+  "positionId": 65,
+  "name_jp": "ユラン",
+  "positions": [
+    {
+      "_id": "0001-000065",
+      "posX": 325,
+      "posY": 201,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 65
+    }
+  ]
+},{
+  "_id": "0001-000066-000215",
+  "class": "Mob_A",
+  "nameId": 215,
+  "mapId": 1,
+  "positionId": 66,
+  "name_jp": "スグリーヴァ",
+  "positions": [
+    {
+      "_id": "0001-000066",
+      "posX": 176,
+      "posY": 164,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 66
+    }
+  ]
+},{
+  "_id": "0001-000067-000216",
+  "class": "Mob_A",
+  "nameId": 216,
+  "mapId": 1,
+  "positionId": 67,
+  "name_jp": "スグリーヴァ",
+  "positions": [
+    {
+      "_id": "0001-000067",
+      "posX": 299,
+      "posY": 132,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 67
+    }
+  ]
+},{
+  "_id": "0001-000068-000217",
+  "class": "Mob_A",
+  "nameId": 217,
+  "mapId": 1,
+  "positionId": 68,
+  "name_jp": "スグリーヴァ",
+  "positions": [
+    {
+      "_id": "0001-000068",
+      "posX": 143,
+      "posY": 123,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 68
+    }
+  ]
+},{
+  "_id": "0001-000069-000218",
+  "class": "Mob_A",
+  "nameId": 218,
+  "mapId": 1,
+  "positionId": 69,
+  "name_jp": "スグリーヴァ",
+  "positions": [
+    {
+      "_id": "0001-000069",
+      "posX": 182,
+      "posY": 113,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 69
+    }
+  ]
+},{
+  "_id": "0001-000061-000219",
+  "class": "Mob_A",
+  "nameId": 219,
+  "mapId": 1,
+  "positionId": 61,
+  "name_jp": "スグリーヴァ",
+  "positions": [
+    {
+      "_id": "0001-000061",
+      "posX": 207,
+      "posY": 314,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 61
+    }
+  ]
+},{
+  "_id": "0001-000062-000220",
+  "class": "Mob_A",
+  "nameId": 220,
+  "mapId": 1,
+  "positionId": 62,
+  "name_jp": "スグリーヴァ",
+  "positions": [
+    {
+      "_id": "0001-000062",
+      "posX": 270,
+      "posY": 247,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 62
+    }
+  ]
+},{
+  "_id": "0001-000063-000221",
+  "class": "Mob_A",
+  "nameId": 221,
+  "mapId": 1,
+  "positionId": 63,
+  "name_jp": "スグリーヴァ",
+  "positions": [
+    {
+      "_id": "0001-000063",
+      "posX": 185,
+      "posY": 235,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 63
+    }
+  ]
+},{
+  "_id": "0001-000064-000222",
+  "class": "Mob_A",
+  "nameId": 222,
+  "mapId": 1,
+  "positionId": 64,
+  "name_jp": "スグリーヴァ",
+  "positions": [
+    {
+      "_id": "0001-000064",
+      "posX": 267,
+      "posY": 206,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 64
+    }
+  ]
+},{
+  "_id": "0001-000065-000223",
+  "class": "Mob_A",
+  "nameId": 223,
+  "mapId": 1,
+  "positionId": 65,
+  "name_jp": "スグリーヴァ",
+  "positions": [
+    {
+      "_id": "0001-000065",
+      "posX": 325,
+      "posY": 201,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 65
+    }
+  ]
+},{
+  "_id": "0001-000066-000224",
+  "class": "Mob_B",
+  "nameId": 224,
+  "mapId": 1,
+  "positionId": 66,
+  "name_jp": "ヴァジュラクマーラ",
+  "positions": [
+    {
+      "_id": "0001-000066",
+      "posX": 176,
+      "posY": 164,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 66
+    }
+  ]
+},{
+  "_id": "0001-000067-000225",
+  "class": "Mob_B",
+  "nameId": 225,
+  "mapId": 1,
+  "positionId": 67,
+  "name_jp": "ヴァジュラクマーラ",
+  "positions": [
+    {
+      "_id": "0001-000067",
+      "posX": 299,
+      "posY": 132,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 67
+    }
+  ]
+},{
+  "_id": "0001-000068-000226",
+  "class": "Mob_B",
+  "nameId": 226,
+  "mapId": 1,
+  "positionId": 68,
+  "name_jp": "ヴァジュラクマーラ",
+  "positions": [
+    {
+      "_id": "0001-000068",
+      "posX": 143,
+      "posY": 123,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 68
+    }
+  ]
+},{
+  "_id": "0001-000069-000227",
+  "class": "Mob_B",
+  "nameId": 227,
+  "mapId": 1,
+  "positionId": 69,
+  "name_jp": "ヴァジュラクマーラ",
+  "positions": [
+    {
+      "_id": "0001-000069",
+      "posX": 182,
+      "posY": 113,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 69
+    }
+  ]
+},{
+  "_id": "0001-000061-000228",
+  "class": "Mob_B",
+  "nameId": 228,
+  "mapId": 1,
+  "positionId": 61,
+  "name_jp": "イラーヴァティ",
+  "positions": [
+    {
+      "_id": "0001-000061",
+      "posX": 207,
+      "posY": 314,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 61
+    }
+  ]
+},{
+  "_id": "0001-000062-000229",
+  "class": "Mob_B",
+  "nameId": 229,
+  "mapId": 1,
+  "positionId": 62,
+  "name_jp": "イラーヴァティ",
+  "positions": [
+    {
+      "_id": "0001-000062",
+      "posX": 270,
+      "posY": 247,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 62
+    }
+  ]
+},{
+  "_id": "0001-000063-000230",
+  "class": "Mob_B",
+  "nameId": 230,
+  "mapId": 1,
+  "positionId": 63,
+  "name_jp": "イラーヴァティ",
+  "positions": [
+    {
+      "_id": "0001-000063",
+      "posX": 185,
+      "posY": 235,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 63
+    }
+  ]
+},{
+  "_id": "0001-000064-000231",
+  "class": "Mob_B",
+  "nameId": 231,
+  "mapId": 1,
+  "positionId": 64,
+  "name_jp": "イラーヴァティ",
+  "positions": [
+    {
+      "_id": "0001-000064",
+      "posX": 267,
+      "posY": 206,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 64
+    }
+  ]
+},{
+  "_id": "0001-000065-000232",
+  "class": "Mob_B",
+  "nameId": 232,
+  "mapId": 1,
+  "positionId": 65,
+  "name_jp": "イラーヴァティ",
+  "positions": [
+    {
+      "_id": "0001-000065",
+      "posX": 325,
+      "posY": 201,
+      "weight": 0,
+      "mapId": 1,
+      "positionId": 65
+    }
+  ]
+},{
+  "_id": "0002-000091-000233",
+  "class": "Mob_S+",
+  "nameId": 233,
+  "mapId": 2,
+  "positionId": 91,
+  "name_jp": "ケール",
+  "positions": [
+    {
+      "_id": "0002-000091",
+      "posX": 208,
+      "posY": 244,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 91
+    }
+  ]
+},{
+  "_id": "0002-000097-000234",
+  "class": "Mob_S",
+  "nameId": 234,
+  "mapId": 2,
+  "positionId": 97,
+  "name_jp": "アームストロング",
+  "positions": [
+    {
+      "_id": "0002-000097",
+      "posX": 155,
+      "posY": 195,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 97
+    }
+  ]
+},{
+  "_id": "0002-000098-000235",
+  "class": "Mob_S",
+  "nameId": 235,
+  "mapId": 2,
+  "positionId": 98,
+  "name_jp": "アームストロング",
+  "positions": [
+    {
+      "_id": "0002-000098",
+      "posX": 115,
+      "posY": 170,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 98
+    }
+  ]
+},{
+  "_id": "0002-000099-000236",
+  "class": "Mob_S",
+  "nameId": 236,
+  "mapId": 2,
+  "positionId": 99,
+  "name_jp": "アームストロング",
+  "positions": [
+    {
+      "_id": "0002-000099",
+      "posX": 123,
+      "posY": 127,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 99
+    }
+  ]
+},{
+  "_id": "0002-000100-000237",
+  "class": "Mob_S",
+  "nameId": 237,
+  "mapId": 2,
+  "positionId": 100,
+  "name_jp": "アームストロング",
+  "positions": [
+    {
+      "_id": "0002-000100",
+      "posX": 97,
+      "posY": 113,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 100
+    }
+  ]
+},{
+  "_id": "0002-000092-000238",
+  "class": "Mob_S",
+  "nameId": 238,
+  "mapId": 2,
+  "positionId": 92,
+  "name_jp": "アームストロング",
+  "positions": [
+    {
+      "_id": "0002-000092",
+      "posX": 275,
+      "posY": 341,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 92
+    }
+  ]
+},{
+  "_id": "0002-000093-000239",
+  "class": "Mob_S",
+  "nameId": 239,
+  "mapId": 2,
+  "positionId": 93,
+  "name_jp": "アームストロング",
+  "positions": [
+    {
+      "_id": "0002-000093",
+      "posX": 325,
+      "posY": 325,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 93
+    }
+  ]
+},{
+  "_id": "0002-000094-000240",
+  "class": "Mob_S",
+  "nameId": 240,
+  "mapId": 2,
+  "positionId": 94,
+  "name_jp": "アームストロング",
+  "positions": [
+    {
+      "_id": "0002-000094",
+      "posX": 233,
+      "posY": 260,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 94
+    }
+  ]
+},{
+  "_id": "0002-000095-000241",
+  "class": "Mob_S",
+  "nameId": 241,
+  "mapId": 2,
+  "positionId": 95,
+  "name_jp": "アームストロング",
+  "positions": [
+    {
+      "_id": "0002-000095",
+      "posX": 326,
+      "posY": 220,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 95
+    }
+  ]
+},{
+  "_id": "0002-000096-000242",
+  "class": "Mob_S",
+  "nameId": 242,
+  "mapId": 2,
+  "positionId": 96,
+  "name_jp": "アームストロング",
+  "positions": [
+    {
+      "_id": "0002-000096",
+      "posX": 290,
+      "posY": 210,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 96
+    }
+  ]
+},{
+  "_id": "0002-000097-000243",
+  "class": "Mob_A",
+  "nameId": 243,
+  "mapId": 2,
+  "positionId": 97,
+  "name_jp": "ミネルウァ",
+  "positions": [
+    {
+      "_id": "0002-000097",
+      "posX": 155,
+      "posY": 195,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 97
+    }
+  ]
+},{
+  "_id": "0002-000098-000244",
+  "class": "Mob_A",
+  "nameId": 244,
+  "mapId": 2,
+  "positionId": 98,
+  "name_jp": "ミネルウァ",
+  "positions": [
+    {
+      "_id": "0002-000098",
+      "posX": 115,
+      "posY": 170,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 98
+    }
+  ]
+},{
+  "_id": "0002-000099-000245",
+  "class": "Mob_A",
+  "nameId": 245,
+  "mapId": 2,
+  "positionId": 99,
+  "name_jp": "ミネルウァ",
+  "positions": [
+    {
+      "_id": "0002-000099",
+      "posX": 123,
+      "posY": 127,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 99
+    }
+  ]
+},{
+  "_id": "0002-000100-000246",
+  "class": "Mob_A",
+  "nameId": 246,
+  "mapId": 2,
+  "positionId": 100,
+  "name_jp": "ミネルウァ",
+  "positions": [
+    {
+      "_id": "0002-000100",
+      "posX": 97,
+      "posY": 113,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 100
+    }
+  ]
+},{
+  "_id": "0002-000092-000247",
+  "class": "Mob_A",
+  "nameId": 247,
+  "mapId": 2,
+  "positionId": 92,
+  "name_jp": "ミネルウァ",
+  "positions": [
+    {
+      "_id": "0002-000092",
+      "posX": 275,
+      "posY": 341,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 92
+    }
+  ]
+},{
+  "_id": "0002-000093-000248",
+  "class": "Mob_A",
+  "nameId": 248,
+  "mapId": 2,
+  "positionId": 93,
+  "name_jp": "ミネルウァ",
+  "positions": [
+    {
+      "_id": "0002-000093",
+      "posX": 325,
+      "posY": 325,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 93
+    }
+  ]
+},{
+  "_id": "0002-000094-000249",
+  "class": "Mob_A",
+  "nameId": 249,
+  "mapId": 2,
+  "positionId": 94,
+  "name_jp": "ミネルウァ",
+  "positions": [
+    {
+      "_id": "0002-000094",
+      "posX": 233,
+      "posY": 260,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 94
+    }
+  ]
+},{
+  "_id": "0002-000095-000250",
+  "class": "Mob_A",
+  "nameId": 250,
+  "mapId": 2,
+  "positionId": 95,
+  "name_jp": "ミネルウァ",
+  "positions": [
+    {
+      "_id": "0002-000095",
+      "posX": 326,
+      "posY": 220,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 95
+    }
+  ]
+},{
+  "_id": "0002-000096-000251",
+  "class": "Mob_A",
+  "nameId": 251,
+  "mapId": 2,
+  "positionId": 96,
+  "name_jp": "ミネルウァ",
+  "positions": [
+    {
+      "_id": "0002-000096",
+      "posX": 290,
+      "posY": 210,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 96
+    }
+  ]
+},{
+  "_id": "0002-000097-000252",
+  "class": "Mob_A",
+  "nameId": 252,
+  "mapId": 2,
+  "positionId": 97,
+  "name_jp": "アイゲイロス",
+  "positions": [
+    {
+      "_id": "0002-000097",
+      "posX": 155,
+      "posY": 195,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 97
+    }
+  ]
+},{
+  "_id": "0002-000098-000253",
+  "class": "Mob_A",
+  "nameId": 253,
+  "mapId": 2,
+  "positionId": 98,
+  "name_jp": "アイゲイロス",
+  "positions": [
+    {
+      "_id": "0002-000098",
+      "posX": 115,
+      "posY": 170,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 98
+    }
+  ]
+},{
+  "_id": "0002-000099-000254",
+  "class": "Mob_A",
+  "nameId": 254,
+  "mapId": 2,
+  "positionId": 99,
+  "name_jp": "アイゲイロス",
+  "positions": [
+    {
+      "_id": "0002-000099",
+      "posX": 123,
+      "posY": 127,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 99
+    }
+  ]
+},{
+  "_id": "0002-000100-000255",
+  "class": "Mob_A",
+  "nameId": 255,
+  "mapId": 2,
+  "positionId": 100,
+  "name_jp": "アイゲイロス",
+  "positions": [
+    {
+      "_id": "0002-000100",
+      "posX": 97,
+      "posY": 113,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 100
+    }
+  ]
+},{
+  "_id": "0002-000092-000256",
+  "class": "Mob_A",
+  "nameId": 256,
+  "mapId": 2,
+  "positionId": 92,
+  "name_jp": "アイゲイロス",
+  "positions": [
+    {
+      "_id": "0002-000092",
+      "posX": 275,
+      "posY": 341,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 92
+    }
+  ]
+},{
+  "_id": "0002-000093-000257",
+  "class": "Mob_A",
+  "nameId": 257,
+  "mapId": 2,
+  "positionId": 93,
+  "name_jp": "アイゲイロス",
+  "positions": [
+    {
+      "_id": "0002-000093",
+      "posX": 325,
+      "posY": 325,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 93
+    }
+  ]
+},{
+  "_id": "0002-000094-000258",
+  "class": "Mob_A",
+  "nameId": 258,
+  "mapId": 2,
+  "positionId": 94,
+  "name_jp": "アイゲイロス",
+  "positions": [
+    {
+      "_id": "0002-000094",
+      "posX": 233,
+      "posY": 260,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 94
+    }
+  ]
+},{
+  "_id": "0002-000095-000259",
+  "class": "Mob_A",
+  "nameId": 259,
+  "mapId": 2,
+  "positionId": 95,
+  "name_jp": "アイゲイロス",
+  "positions": [
+    {
+      "_id": "0002-000095",
+      "posX": 326,
+      "posY": 220,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 95
+    }
+  ]
+},{
+  "_id": "0002-000096-000260",
+  "class": "Mob_A",
+  "nameId": 260,
+  "mapId": 2,
+  "positionId": 96,
+  "name_jp": "アイゲイロス",
+  "positions": [
+    {
+      "_id": "0002-000096",
+      "posX": 290,
+      "posY": 210,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 96
+    }
+  ]
+},{
+  "_id": "0002-000097-000261",
+  "class": "Mob_B",
+  "nameId": 261,
+  "mapId": 2,
+  "positionId": 97,
+  "name_jp": "ウォーモンガー",
+  "positions": [
+    {
+      "_id": "0002-000097",
+      "posX": 155,
+      "posY": 195,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 97
+    }
+  ]
+},{
+  "_id": "0002-000098-000262",
+  "class": "Mob_B",
+  "nameId": 262,
+  "mapId": 2,
+  "positionId": 98,
+  "name_jp": "ウォーモンガー",
+  "positions": [
+    {
+      "_id": "0002-000098",
+      "posX": 115,
+      "posY": 170,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 98
+    }
+  ]
+},{
+  "_id": "0002-000099-000263",
+  "class": "Mob_B",
+  "nameId": 263,
+  "mapId": 2,
+  "positionId": 99,
+  "name_jp": "ウォーモンガー",
+  "positions": [
+    {
+      "_id": "0002-000099",
+      "posX": 123,
+      "posY": 127,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 99
+    }
+  ]
+},{
+  "_id": "0002-000100-000264",
+  "class": "Mob_B",
+  "nameId": 264,
+  "mapId": 2,
+  "positionId": 100,
+  "name_jp": "ウォーモンガー",
+  "positions": [
+    {
+      "_id": "0002-000100",
+      "posX": 97,
+      "posY": 113,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 100
+    }
+  ]
+},{
+  "_id": "0002-000092-000265",
+  "class": "Mob_B",
+  "nameId": 265,
+  "mapId": 2,
+  "positionId": 92,
+  "name_jp": "エンペラーズローズ",
+  "positions": [
+    {
+      "_id": "0002-000092",
+      "posX": 275,
+      "posY": 341,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 92
+    }
+  ]
+},{
+  "_id": "0002-000093-000266",
+  "class": "Mob_B",
+  "nameId": 266,
+  "mapId": 2,
+  "positionId": 93,
+  "name_jp": "エンペラーズローズ",
+  "positions": [
+    {
+      "_id": "0002-000093",
+      "posX": 325,
+      "posY": 325,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 93
+    }
+  ]
+},{
+  "_id": "0002-000094-000267",
+  "class": "Mob_B",
+  "nameId": 267,
+  "mapId": 2,
+  "positionId": 94,
+  "name_jp": "エンペラーズローズ",
+  "positions": [
+    {
+      "_id": "0002-000094",
+      "posX": 233,
+      "posY": 260,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 94
+    }
+  ]
+},{
+  "_id": "0002-000095-000268",
+  "class": "Mob_B",
+  "nameId": 268,
+  "mapId": 2,
+  "positionId": 95,
+  "name_jp": "エンペラーズローズ",
+  "positions": [
+    {
+      "_id": "0002-000095",
+      "posX": 326,
+      "posY": 220,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 95
+    }
+  ]
+},{
+  "_id": "0002-000096-000269",
+  "class": "Mob_B",
+  "nameId": 269,
+  "mapId": 2,
+  "positionId": 96,
+  "name_jp": "エンペラーズローズ",
+  "positions": [
+    {
+      "_id": "0002-000096",
+      "posX": 290,
+      "posY": 210,
+      "weight": 0,
+      "mapId": 2,
+      "positionId": 96
+    }
+  ]
+},{
+  "_id": "0003-000117-000270",
+  "class": "Mob_S+",
+  "nameId": 270,
+  "mapId": 3,
+  "positionId": 117,
+  "name_jp": "ケール",
+  "positions": [
+    {
+      "_id": "0003-000117",
+      "posX": 186,
+      "posY": 307,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 117
+    }
+  ]
+},{
+  "_id": "0003-000123-000271",
+  "class": "Mob_S",
+  "nameId": 271,
+  "mapId": 3,
+  "positionId": 123,
+  "name_jp": "ルミネイター",
+  "positions": [
+    {
+      "_id": "0003-000123",
+      "posX": 285,
+      "posY": 265,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 123
+    }
+  ]
+},{
+  "_id": "0003-000124-000272",
+  "class": "Mob_S",
+  "nameId": 272,
+  "mapId": 3,
+  "positionId": 124,
+  "name_jp": "ルミネイター",
+  "positions": [
+    {
+      "_id": "0003-000124",
+      "posX": 241,
+      "posY": 231,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 124
+    }
+  ]
+},{
+  "_id": "0003-000125-000273",
+  "class": "Mob_S",
+  "nameId": 273,
+  "mapId": 3,
+  "positionId": 125,
+  "name_jp": "ルミネイター",
+  "positions": [
+    {
+      "_id": "0003-000125",
+      "posX": 185,
+      "posY": 222,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 125
+    }
+  ]
+},{
+  "_id": "0003-000126-000274",
+  "class": "Mob_S",
+  "nameId": 274,
+  "mapId": 3,
+  "positionId": 126,
+  "name_jp": "ルミネイター",
+  "positions": [
+    {
+      "_id": "0003-000126",
+      "posX": 170,
+      "posY": 250,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 126
+    }
+  ]
+},{
+  "_id": "0003-000127-000275",
+  "class": "Mob_S",
+  "nameId": 275,
+  "mapId": 3,
+  "positionId": 127,
+  "name_jp": "ルミネイター",
+  "positions": [
+    {
+      "_id": "0003-000127",
+      "posX": 105,
+      "posY": 240,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 127
+    }
+  ]
+},{
+  "_id": "0003-000118-000276",
+  "class": "Mob_S",
+  "nameId": 276,
+  "mapId": 3,
+  "positionId": 118,
+  "name_jp": "ルミネイター",
+  "positions": [
+    {
+      "_id": "0003-000118",
+      "posX": 213,
+      "posY": 342,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 118
+    }
+  ]
+},{
+  "_id": "0003-000119-000277",
+  "class": "Mob_S",
+  "nameId": 277,
+  "mapId": 3,
+  "positionId": 119,
+  "name_jp": "ルミネイター",
+  "positions": [
+    {
+      "_id": "0003-000119",
+      "posX": 241,
+      "posY": 337,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 119
+    }
+  ]
+},{
+  "_id": "0003-000120-000278",
+  "class": "Mob_S",
+  "nameId": 278,
+  "mapId": 3,
+  "positionId": 120,
+  "name_jp": "ルミネイター",
+  "positions": [
+    {
+      "_id": "0003-000120",
+      "posX": 300,
+      "posY": 300,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 120
+    }
+  ]
+},{
+  "_id": "0003-000121-000279",
+  "class": "Mob_S",
+  "nameId": 279,
+  "mapId": 3,
+  "positionId": 121,
+  "name_jp": "ルミネイター",
+  "positions": [
+    {
+      "_id": "0003-000121",
+      "posX": 163,
+      "posY": 290,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 121
+    }
+  ]
+},{
+  "_id": "0003-000122-000280",
+  "class": "Mob_S",
+  "nameId": 280,
+  "mapId": 3,
+  "positionId": 122,
+  "name_jp": "ルミネイター",
+  "positions": [
+    {
+      "_id": "0003-000122",
+      "posX": 365,
+      "posY": 273,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 122
+    }
+  ]
+},{
+  "_id": "0003-000123-000281",
+  "class": "Mob_A",
+  "nameId": 281,
+  "mapId": 3,
+  "positionId": 123,
+  "name_jp": "ルナテンダー・クイーン",
+  "positions": [
+    {
+      "_id": "0003-000123",
+      "posX": 285,
+      "posY": 265,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 123
+    }
+  ]
+},{
+  "_id": "0003-000124-000282",
+  "class": "Mob_A",
+  "nameId": 282,
+  "mapId": 3,
+  "positionId": 124,
+  "name_jp": "ルナテンダー・クイーン",
+  "positions": [
+    {
+      "_id": "0003-000124",
+      "posX": 241,
+      "posY": 231,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 124
+    }
+  ]
+},{
+  "_id": "0003-000125-000283",
+  "class": "Mob_A",
+  "nameId": 283,
+  "mapId": 3,
+  "positionId": 125,
+  "name_jp": "ルナテンダー・クイーン",
+  "positions": [
+    {
+      "_id": "0003-000125",
+      "posX": 185,
+      "posY": 222,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 125
+    }
+  ]
+},{
+  "_id": "0003-000126-000284",
+  "class": "Mob_A",
+  "nameId": 284,
+  "mapId": 3,
+  "positionId": 126,
+  "name_jp": "ルナテンダー・クイーン",
+  "positions": [
+    {
+      "_id": "0003-000126",
+      "posX": 170,
+      "posY": 250,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 126
+    }
+  ]
+},{
+  "_id": "0003-000127-000285",
+  "class": "Mob_A",
+  "nameId": 285,
+  "mapId": 3,
+  "positionId": 127,
+  "name_jp": "ルナテンダー・クイーン",
+  "positions": [
+    {
+      "_id": "0003-000127",
+      "posX": 105,
+      "posY": 240,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 127
+    }
+  ]
+},{
+  "_id": "0003-000118-000286",
+  "class": "Mob_A",
+  "nameId": 286,
+  "mapId": 3,
+  "positionId": 118,
+  "name_jp": "ルナテンダー・クイーン",
+  "positions": [
+    {
+      "_id": "0003-000118",
+      "posX": 213,
+      "posY": 342,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 118
+    }
+  ]
+},{
+  "_id": "0003-000119-000287",
+  "class": "Mob_A",
+  "nameId": 287,
+  "mapId": 3,
+  "positionId": 119,
+  "name_jp": "ルナテンダー・クイーン",
+  "positions": [
+    {
+      "_id": "0003-000119",
+      "posX": 241,
+      "posY": 337,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 119
+    }
+  ]
+},{
+  "_id": "0003-000120-000288",
+  "class": "Mob_A",
+  "nameId": 288,
+  "mapId": 3,
+  "positionId": 120,
+  "name_jp": "ルナテンダー・クイーン",
+  "positions": [
+    {
+      "_id": "0003-000120",
+      "posX": 300,
+      "posY": 300,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 120
+    }
+  ]
+},{
+  "_id": "0003-000121-000289",
+  "class": "Mob_A",
+  "nameId": 289,
+  "mapId": 3,
+  "positionId": 121,
+  "name_jp": "ルナテンダー・クイーン",
+  "positions": [
+    {
+      "_id": "0003-000121",
+      "posX": 163,
+      "posY": 290,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 121
+    }
+  ]
+},{
+  "_id": "0003-000122-000290",
+  "class": "Mob_A",
+  "nameId": 290,
+  "mapId": 3,
+  "positionId": 122,
+  "name_jp": "ルナテンダー・クイーン",
+  "positions": [
+    {
+      "_id": "0003-000122",
+      "posX": 365,
+      "posY": 273,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 122
+    }
+  ]
+},{
+  "_id": "0003-000123-000291",
+  "class": "Mob_A",
+  "nameId": 291,
+  "mapId": 3,
+  "positionId": 123,
+  "name_jp": "ムースプリンセス",
+  "positions": [
+    {
+      "_id": "0003-000123",
+      "posX": 285,
+      "posY": 265,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 123
+    }
+  ]
+},{
+  "_id": "0003-000124-000292",
+  "class": "Mob_A",
+  "nameId": 292,
+  "mapId": 3,
+  "positionId": 124,
+  "name_jp": "ムースプリンセス",
+  "positions": [
+    {
+      "_id": "0003-000124",
+      "posX": 241,
+      "posY": 231,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 124
+    }
+  ]
+},{
+  "_id": "0003-000125-000293",
+  "class": "Mob_A",
+  "nameId": 293,
+  "mapId": 3,
+  "positionId": 125,
+  "name_jp": "ムースプリンセス",
+  "positions": [
+    {
+      "_id": "0003-000125",
+      "posX": 185,
+      "posY": 222,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 125
+    }
+  ]
+},{
+  "_id": "0003-000126-000294",
+  "class": "Mob_A",
+  "nameId": 294,
+  "mapId": 3,
+  "positionId": 126,
+  "name_jp": "ムースプリンセス",
+  "positions": [
+    {
+      "_id": "0003-000126",
+      "posX": 170,
+      "posY": 250,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 126
+    }
+  ]
+},{
+  "_id": "0003-000127-000295",
+  "class": "Mob_A",
+  "nameId": 295,
+  "mapId": 3,
+  "positionId": 127,
+  "name_jp": "ムースプリンセス",
+  "positions": [
+    {
+      "_id": "0003-000127",
+      "posX": 105,
+      "posY": 240,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 127
+    }
+  ]
+},{
+  "_id": "0003-000118-000296",
+  "class": "Mob_A",
+  "nameId": 296,
+  "mapId": 3,
+  "positionId": 118,
+  "name_jp": "ムースプリンセス",
+  "positions": [
+    {
+      "_id": "0003-000118",
+      "posX": 213,
+      "posY": 342,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 118
+    }
+  ]
+},{
+  "_id": "0003-000119-000297",
+  "class": "Mob_A",
+  "nameId": 297,
+  "mapId": 3,
+  "positionId": 119,
+  "name_jp": "ムースプリンセス",
+  "positions": [
+    {
+      "_id": "0003-000119",
+      "posX": 241,
+      "posY": 337,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 119
+    }
+  ]
+},{
+  "_id": "0003-000120-000298",
+  "class": "Mob_A",
+  "nameId": 298,
+  "mapId": 3,
+  "positionId": 120,
+  "name_jp": "ムースプリンセス",
+  "positions": [
+    {
+      "_id": "0003-000120",
+      "posX": 300,
+      "posY": 300,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 120
+    }
+  ]
+},{
+  "_id": "0003-000121-000299",
+  "class": "Mob_A",
+  "nameId": 299,
+  "mapId": 3,
+  "positionId": 121,
+  "name_jp": "ムースプリンセス",
+  "positions": [
+    {
+      "_id": "0003-000121",
+      "posX": 163,
+      "posY": 290,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 121
+    }
+  ]
+},{
+  "_id": "0003-000122-000300",
+  "class": "Mob_A",
+  "nameId": 300,
+  "mapId": 3,
+  "positionId": 122,
+  "name_jp": "ムースプリンセス",
+  "positions": [
+    {
+      "_id": "0003-000122",
+      "posX": 365,
+      "posY": 273,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 122
+    }
+  ]
+},{
+  "_id": "0003-000123-000301",
+  "class": "Mob_B",
+  "nameId": 301,
+  "mapId": 3,
+  "positionId": 123,
+  "name_jp": "ダフニアマグナ",
+  "positions": [
+    {
+      "_id": "0003-000123",
+      "posX": 285,
+      "posY": 265,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 123
+    }
+  ]
+},{
+  "_id": "0003-000124-000302",
+  "class": "Mob_B",
+  "nameId": 302,
+  "mapId": 3,
+  "positionId": 124,
+  "name_jp": "ダフニアマグナ",
+  "positions": [
+    {
+      "_id": "0003-000124",
+      "posX": 241,
+      "posY": 231,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 124
+    }
+  ]
+},{
+  "_id": "0003-000125-000303",
+  "class": "Mob_B",
+  "nameId": 303,
+  "mapId": 3,
+  "positionId": 125,
+  "name_jp": "ダフニアマグナ",
+  "positions": [
+    {
+      "_id": "0003-000125",
+      "posX": 185,
+      "posY": 222,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 125
+    }
+  ]
+},{
+  "_id": "0003-000126-000304",
+  "class": "Mob_B",
+  "nameId": 304,
+  "mapId": 3,
+  "positionId": 126,
+  "name_jp": "ダフニアマグナ",
+  "positions": [
+    {
+      "_id": "0003-000126",
+      "posX": 170,
+      "posY": 250,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 126
+    }
+  ]
+},{
+  "_id": "0003-000127-000305",
+  "class": "Mob_B",
+  "nameId": 305,
+  "mapId": 3,
+  "positionId": 127,
+  "name_jp": "ダフニアマグナ",
+  "positions": [
+    {
+      "_id": "0003-000127",
+      "posX": 105,
+      "posY": 240,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 127
+    }
+  ]
+},{
+  "_id": "0003-000118-000306",
+  "class": "Mob_B",
+  "nameId": 306,
+  "mapId": 3,
+  "positionId": 118,
+  "name_jp": "ジェネシスロック",
+  "positions": [
+    {
+      "_id": "0003-000118",
+      "posX": 213,
+      "posY": 342,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 118
+    }
+  ]
+},{
+  "_id": "0003-000119-000307",
+  "class": "Mob_B",
+  "nameId": 307,
+  "mapId": 3,
+  "positionId": 119,
+  "name_jp": "ジェネシスロック",
+  "positions": [
+    {
+      "_id": "0003-000119",
+      "posX": 241,
+      "posY": 337,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 119
+    }
+  ]
+},{
+  "_id": "0003-000120-000308",
+  "class": "Mob_B",
+  "nameId": 308,
+  "mapId": 3,
+  "positionId": 120,
+  "name_jp": "ジェネシスロック",
+  "positions": [
+    {
+      "_id": "0003-000120",
+      "posX": 300,
+      "posY": 300,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 120
+    }
+  ]
+},{
+  "_id": "0003-000121-000309",
+  "class": "Mob_B",
+  "nameId": 309,
+  "mapId": 3,
+  "positionId": 121,
+  "name_jp": "ジェネシスロック",
+  "positions": [
+    {
+      "_id": "0003-000121",
+      "posX": 163,
+      "posY": 290,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 121
+    }
+  ]
+},{
+  "_id": "0003-000122-000310",
+  "class": "Mob_B",
+  "nameId": 310,
+  "mapId": 3,
+  "positionId": 122,
+  "name_jp": "ジェネシスロック",
+  "positions": [
+    {
+      "_id": "0003-000122",
+      "posX": 365,
+      "posY": 273,
+      "weight": 0,
+      "mapId": 3,
+      "positionId": 122
+    }
+  ]
+},{
+  "_id": "0004-000153-000311",
+  "class": "Mob_S+",
+  "nameId": 311,
+  "mapId": 4,
+  "positionId": 153,
+  "name_jp": "ケール",
+  "positions": [
+    {
+      "_id": "0004-000153",
+      "posX": 230,
+      "posY": 200,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 153
+    }
+  ]
+},{
+  "_id": "0004-000159-000312",
+  "class": "Mob_S",
+  "nameId": 312,
+  "mapId": 4,
+  "positionId": 159,
+  "name_jp": "オピオネウス",
+  "positions": [
+    {
+      "_id": "0004-000159",
+      "posX": 322,
+      "posY": 183,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 159
+    }
+  ]
+},{
+  "_id": "0004-000160-000313",
+  "class": "Mob_S",
+  "nameId": 313,
+  "mapId": 4,
+  "positionId": 160,
+  "name_jp": "オピオネウス",
+  "positions": [
+    {
+      "_id": "0004-000160",
+      "posX": 342,
+      "posY": 147,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 160
+    }
+  ]
+},{
+  "_id": "0004-000161-000314",
+  "class": "Mob_S",
+  "nameId": 314,
+  "mapId": 4,
+  "positionId": 161,
+  "name_jp": "オピオネウス",
+  "positions": [
+    {
+      "_id": "0004-000161",
+      "posX": 340,
+      "posY": 109,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 161
+    }
+  ]
+},{
+  "_id": "0004-000162-000315",
+  "class": "Mob_S",
+  "nameId": 315,
+  "mapId": 4,
+  "positionId": 162,
+  "name_jp": "オピオネウス",
+  "positions": [
+    {
+      "_id": "0004-000162",
+      "posX": 215,
+      "posY": 135,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 162
+    }
+  ]
+},{
+  "_id": "0004-000163-000316",
+  "class": "Mob_S",
+  "nameId": 316,
+  "mapId": 4,
+  "positionId": 163,
+  "name_jp": "オピオネウス",
+  "positions": [
+    {
+      "_id": "0004-000163",
+      "posX": 215,
+      "posY": 65,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 163
+    }
+  ]
+},{
+  "_id": "0004-000164-000317",
+  "class": "Mob_S",
+  "nameId": 317,
+  "mapId": 4,
+  "positionId": 164,
+  "name_jp": "オピオネウス",
+  "positions": [
+    {
+      "_id": "0004-000164",
+      "posX": 126,
+      "posY": 103,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 164
+    }
+  ]
+},{
+  "_id": "0004-000154-000318",
+  "class": "Mob_S",
+  "nameId": 318,
+  "mapId": 4,
+  "positionId": 154,
+  "name_jp": "オピオネウス",
+  "positions": [
+    {
+      "_id": "0004-000154",
+      "posX": 129,
+      "posY": 321,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 154
+    }
+  ]
+},{
+  "_id": "0004-000155-000319",
+  "class": "Mob_S",
+  "nameId": 319,
+  "mapId": 4,
+  "positionId": 155,
+  "name_jp": "オピオネウス",
+  "positions": [
+    {
+      "_id": "0004-000155",
+      "posX": 71,
+      "posY": 289,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 155
+    }
+  ]
+},{
+  "_id": "0004-000156-000320",
+  "class": "Mob_S",
+  "nameId": 320,
+  "mapId": 4,
+  "positionId": 156,
+  "name_jp": "オピオネウス",
+  "positions": [
+    {
+      "_id": "0004-000156",
+      "posX": 181,
+      "posY": 300,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 156
+    }
+  ]
+},{
+  "_id": "0004-000157-000321",
+  "class": "Mob_S",
+  "nameId": 321,
+  "mapId": 4,
+  "positionId": 157,
+  "name_jp": "オピオネウス",
+  "positions": [
+    {
+      "_id": "0004-000157",
+      "posX": 187,
+      "posY": 246,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 157
+    }
+  ]
+},{
+  "_id": "0004-000158-000322",
+  "class": "Mob_S",
+  "nameId": 322,
+  "mapId": 4,
+  "positionId": 158,
+  "name_jp": "オピオネウス",
+  "positions": [
+    {
+      "_id": "0004-000158",
+      "posX": 295,
+      "posY": 280,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 158
+    }
+  ]
+},{
+  "_id": "0004-000159-000323",
+  "class": "Mob_A",
+  "nameId": 323,
+  "mapId": 4,
+  "positionId": 159,
+  "name_jp": "グランガチ",
+  "positions": [
+    {
+      "_id": "0004-000159",
+      "posX": 322,
+      "posY": 183,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 159
+    }
+  ]
+},{
+  "_id": "0004-000160-000324",
+  "class": "Mob_A",
+  "nameId": 324,
+  "mapId": 4,
+  "positionId": 160,
+  "name_jp": "グランガチ",
+  "positions": [
+    {
+      "_id": "0004-000160",
+      "posX": 342,
+      "posY": 147,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 160
+    }
+  ]
+},{
+  "_id": "0004-000161-000325",
+  "class": "Mob_A",
+  "nameId": 325,
+  "mapId": 4,
+  "positionId": 161,
+  "name_jp": "グランガチ",
+  "positions": [
+    {
+      "_id": "0004-000161",
+      "posX": 340,
+      "posY": 109,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 161
+    }
+  ]
+},{
+  "_id": "0004-000162-000326",
+  "class": "Mob_A",
+  "nameId": 326,
+  "mapId": 4,
+  "positionId": 162,
+  "name_jp": "グランガチ",
+  "positions": [
+    {
+      "_id": "0004-000162",
+      "posX": 215,
+      "posY": 135,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 162
+    }
+  ]
+},{
+  "_id": "0004-000163-000327",
+  "class": "Mob_A",
+  "nameId": 327,
+  "mapId": 4,
+  "positionId": 163,
+  "name_jp": "グランガチ",
+  "positions": [
+    {
+      "_id": "0004-000163",
+      "posX": 215,
+      "posY": 65,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 163
+    }
+  ]
+},{
+  "_id": "0004-000164-000328",
+  "class": "Mob_A",
+  "nameId": 328,
+  "mapId": 4,
+  "positionId": 164,
+  "name_jp": "グランガチ",
+  "positions": [
+    {
+      "_id": "0004-000164",
+      "posX": 126,
+      "posY": 103,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 164
+    }
+  ]
+},{
+  "_id": "0004-000154-000329",
+  "class": "Mob_A",
+  "nameId": 329,
+  "mapId": 4,
+  "positionId": 154,
+  "name_jp": "グランガチ",
+  "positions": [
+    {
+      "_id": "0004-000154",
+      "posX": 129,
+      "posY": 321,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 154
+    }
+  ]
+},{
+  "_id": "0004-000155-000330",
+  "class": "Mob_A",
+  "nameId": 330,
+  "mapId": 4,
+  "positionId": 155,
+  "name_jp": "グランガチ",
+  "positions": [
+    {
+      "_id": "0004-000155",
+      "posX": 71,
+      "posY": 289,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 155
+    }
+  ]
+},{
+  "_id": "0004-000156-000331",
+  "class": "Mob_A",
+  "nameId": 331,
+  "mapId": 4,
+  "positionId": 156,
+  "name_jp": "グランガチ",
+  "positions": [
+    {
+      "_id": "0004-000156",
+      "posX": 181,
+      "posY": 300,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 156
+    }
+  ]
+},{
+  "_id": "0004-000157-000332",
+  "class": "Mob_A",
+  "nameId": 332,
+  "mapId": 4,
+  "positionId": 157,
+  "name_jp": "グランガチ",
+  "positions": [
+    {
+      "_id": "0004-000157",
+      "posX": 187,
+      "posY": 246,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 157
+    }
+  ]
+},{
+  "_id": "0004-000158-000333",
+  "class": "Mob_A",
+  "nameId": 333,
+  "mapId": 4,
+  "positionId": 158,
+  "name_jp": "グランガチ",
+  "positions": [
+    {
+      "_id": "0004-000158",
+      "posX": 295,
+      "posY": 280,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 158
+    }
+  ]
+},{
+  "_id": "0004-000159-000334",
+  "class": "Mob_A",
+  "nameId": 334,
+  "mapId": 4,
+  "positionId": 159,
+  "name_jp": "ペタロドゥス",
+  "positions": [
+    {
+      "_id": "0004-000159",
+      "posX": 322,
+      "posY": 183,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 159
+    }
+  ]
+},{
+  "_id": "0004-000160-000335",
+  "class": "Mob_A",
+  "nameId": 335,
+  "mapId": 4,
+  "positionId": 160,
+  "name_jp": "ペタロドゥス",
+  "positions": [
+    {
+      "_id": "0004-000160",
+      "posX": 342,
+      "posY": 147,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 160
+    }
+  ]
+},{
+  "_id": "0004-000161-000336",
+  "class": "Mob_A",
+  "nameId": 336,
+  "mapId": 4,
+  "positionId": 161,
+  "name_jp": "ペタロドゥス",
+  "positions": [
+    {
+      "_id": "0004-000161",
+      "posX": 340,
+      "posY": 109,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 161
+    }
+  ]
+},{
+  "_id": "0004-000162-000337",
+  "class": "Mob_A",
+  "nameId": 337,
+  "mapId": 4,
+  "positionId": 162,
+  "name_jp": "ペタロドゥス",
+  "positions": [
+    {
+      "_id": "0004-000162",
+      "posX": 215,
+      "posY": 135,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 162
+    }
+  ]
+},{
+  "_id": "0004-000163-000338",
+  "class": "Mob_A",
+  "nameId": 338,
+  "mapId": 4,
+  "positionId": 163,
+  "name_jp": "ペタロドゥス",
+  "positions": [
+    {
+      "_id": "0004-000163",
+      "posX": 215,
+      "posY": 65,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 163
+    }
+  ]
+},{
+  "_id": "0004-000164-000339",
+  "class": "Mob_A",
+  "nameId": 339,
+  "mapId": 4,
+  "positionId": 164,
+  "name_jp": "ペタロドゥス",
+  "positions": [
+    {
+      "_id": "0004-000164",
+      "posX": 126,
+      "posY": 103,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 164
+    }
+  ]
+},{
+  "_id": "0004-000154-000340",
+  "class": "Mob_A",
+  "nameId": 340,
+  "mapId": 4,
+  "positionId": 154,
+  "name_jp": "ペタロドゥス",
+  "positions": [
+    {
+      "_id": "0004-000154",
+      "posX": 129,
+      "posY": 321,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 154
+    }
+  ]
+},{
+  "_id": "0004-000155-000341",
+  "class": "Mob_A",
+  "nameId": 341,
+  "mapId": 4,
+  "positionId": 155,
+  "name_jp": "ペタロドゥス",
+  "positions": [
+    {
+      "_id": "0004-000155",
+      "posX": 71,
+      "posY": 289,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 155
+    }
+  ]
+},{
+  "_id": "0004-000156-000342",
+  "class": "Mob_A",
+  "nameId": 342,
+  "mapId": 4,
+  "positionId": 156,
+  "name_jp": "ペタロドゥス",
+  "positions": [
+    {
+      "_id": "0004-000156",
+      "posX": 181,
+      "posY": 300,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 156
+    }
+  ]
+},{
+  "_id": "0004-000157-000343",
+  "class": "Mob_A",
+  "nameId": 343,
+  "mapId": 4,
+  "positionId": 157,
+  "name_jp": "ペタロドゥス",
+  "positions": [
+    {
+      "_id": "0004-000157",
+      "posX": 187,
+      "posY": 246,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 157
+    }
+  ]
+},{
+  "_id": "0004-000158-000344",
+  "class": "Mob_A",
+  "nameId": 344,
+  "mapId": 4,
+  "positionId": 158,
+  "name_jp": "ペタロドゥス",
+  "positions": [
+    {
+      "_id": "0004-000158",
+      "posX": 295,
+      "posY": 280,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 158
+    }
+  ]
+},{
+  "_id": "0004-000159-000345",
+  "class": "Mob_B",
+  "nameId": 345,
+  "mapId": 4,
+  "positionId": 159,
+  "name_jp": "ユムカクス",
+  "positions": [
+    {
+      "_id": "0004-000159",
+      "posX": 322,
+      "posY": 183,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 159
+    }
+  ]
+},{
+  "_id": "0004-000160-000346",
+  "class": "Mob_B",
+  "nameId": 346,
+  "mapId": 4,
+  "positionId": 160,
+  "name_jp": "ユムカクス",
+  "positions": [
+    {
+      "_id": "0004-000160",
+      "posX": 342,
+      "posY": 147,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 160
+    }
+  ]
+},{
+  "_id": "0004-000161-000347",
+  "class": "Mob_B",
+  "nameId": 347,
+  "mapId": 4,
+  "positionId": 161,
+  "name_jp": "ユムカクス",
+  "positions": [
+    {
+      "_id": "0004-000161",
+      "posX": 340,
+      "posY": 109,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 161
+    }
+  ]
+},{
+  "_id": "0004-000162-000348",
+  "class": "Mob_B",
+  "nameId": 348,
+  "mapId": 4,
+  "positionId": 162,
+  "name_jp": "ユムカクス",
+  "positions": [
+    {
+      "_id": "0004-000162",
+      "posX": 215,
+      "posY": 135,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 162
+    }
+  ]
+},{
+  "_id": "0004-000163-000349",
+  "class": "Mob_B",
+  "nameId": 349,
+  "mapId": 4,
+  "positionId": 163,
+  "name_jp": "ユムカクス",
+  "positions": [
+    {
+      "_id": "0004-000163",
+      "posX": 215,
+      "posY": 65,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 163
+    }
+  ]
+},{
+  "_id": "0004-000164-000350",
+  "class": "Mob_B",
+  "nameId": 350,
+  "mapId": 4,
+  "positionId": 164,
+  "name_jp": "ユムカクス",
+  "positions": [
+    {
+      "_id": "0004-000164",
+      "posX": 126,
+      "posY": 103,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 164
+    }
+  ]
+},{
+  "_id": "0004-000154-000351",
+  "class": "Mob_B",
+  "nameId": 351,
+  "mapId": 4,
+  "positionId": 154,
+  "name_jp": "ショックモー",
+  "positions": [
+    {
+      "_id": "0004-000154",
+      "posX": 129,
+      "posY": 321,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 154
+    }
+  ]
+},{
+  "_id": "0004-000155-000352",
+  "class": "Mob_B",
+  "nameId": 352,
+  "mapId": 4,
+  "positionId": 155,
+  "name_jp": "ショックモー",
+  "positions": [
+    {
+      "_id": "0004-000155",
+      "posX": 71,
+      "posY": 289,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 155
+    }
+  ]
+},{
+  "_id": "0004-000156-000353",
+  "class": "Mob_B",
+  "nameId": 353,
+  "mapId": 4,
+  "positionId": 156,
+  "name_jp": "ショックモー",
+  "positions": [
+    {
+      "_id": "0004-000156",
+      "posX": 181,
+      "posY": 300,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 156
+    }
+  ]
+},{
+  "_id": "0004-000157-000354",
+  "class": "Mob_B",
+  "nameId": 354,
+  "mapId": 4,
+  "positionId": 157,
+  "name_jp": "ショックモー",
+  "positions": [
+    {
+      "_id": "0004-000157",
+      "posX": 187,
+      "posY": 246,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 157
+    }
+  ]
+},{
+  "_id": "0004-000158-000355",
+  "class": "Mob_B",
+  "nameId": 355,
+  "mapId": 4,
+  "positionId": 158,
+  "name_jp": "ショックモー",
+  "positions": [
+    {
+      "_id": "0004-000158",
+      "posX": 295,
+      "posY": 280,
+      "weight": 0,
+      "mapId": 4,
+      "positionId": 158
+    }
+  ]
+},{
+  "_id": "0005-000184-000356",
+  "class": "Mob_S+",
+  "nameId": 356,
+  "mapId": 5,
+  "positionId": 184,
+  "name_jp": "ケール",
+  "positions": [
+    {
+      "_id": "0005-000184",
+      "posX": 145,
+      "posY": 300,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 184
+    }
+  ]
+},{
+  "_id": "0005-000189-000357",
+  "class": "Mob_S",
+  "nameId": 357,
+  "mapId": 5,
+  "positionId": 189,
+  "name_jp": "ナロー＝リフト",
+  "positions": [
+    {
+      "_id": "0005-000189",
+      "posX": 120,
+      "posY": 220,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 189
+    }
+  ]
+},{
+  "_id": "0005-000190-000358",
+  "class": "Mob_S",
+  "nameId": 358,
+  "mapId": 5,
+  "positionId": 190,
+  "name_jp": "ナロー＝リフト",
+  "positions": [
+    {
+      "_id": "0005-000190",
+      "posX": 80,
+      "posY": 205,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 190
+    }
+  ]
+},{
+  "_id": "0005-000191-000359",
+  "class": "Mob_S",
+  "nameId": 359,
+  "mapId": 5,
+  "positionId": 191,
+  "name_jp": "ナロー＝リフト",
+  "positions": [
+    {
+      "_id": "0005-000191",
+      "posX": 133,
+      "posY": 103,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 191
+    }
+  ]
+},{
+  "_id": "0005-000192-000360",
+  "class": "Mob_S",
+  "nameId": 360,
+  "mapId": 5,
+  "positionId": 192,
+  "name_jp": "ナロー＝リフト",
+  "positions": [
+    {
+      "_id": "0005-000192",
+      "posX": 195,
+      "posY": 102,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 192
+    }
+  ]
+},{
+  "_id": "0005-000193-000361",
+  "class": "Mob_S",
+  "nameId": 361,
+  "mapId": 5,
+  "positionId": 193,
+  "name_jp": "ナロー＝リフト",
+  "positions": [
+    {
+      "_id": "0005-000193",
+      "posX": 281,
+      "posY": 124,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 193
+    }
+  ]
+},{
+  "_id": "0005-000185-000362",
+  "class": "Mob_S",
+  "nameId": 362,
+  "mapId": 5,
+  "positionId": 185,
+  "name_jp": "ナロー＝リフト",
+  "positions": [
+    {
+      "_id": "0005-000185",
+      "posX": 148,
+      "posY": 361,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 185
+    }
+  ]
+},{
+  "_id": "0005-000186-000363",
+  "class": "Mob_S",
+  "nameId": 363,
+  "mapId": 5,
+  "positionId": 186,
+  "name_jp": "ナロー＝リフト",
+  "positions": [
+    {
+      "_id": "0005-000186",
+      "posX": 211,
+      "posY": 345,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 186
+    }
+  ]
+},{
+  "_id": "0005-000187-000364",
+  "class": "Mob_S",
+  "nameId": 364,
+  "mapId": 5,
+  "positionId": 187,
+  "name_jp": "ナロー＝リフト",
+  "positions": [
+    {
+      "_id": "0005-000187",
+      "posX": 173,
+      "posY": 298,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 187
+    }
+  ]
+},{
+  "_id": "0005-000188-000365",
+  "class": "Mob_S",
+  "nameId": 365,
+  "mapId": 5,
+  "positionId": 188,
+  "name_jp": "ナロー＝リフト",
+  "positions": [
+    {
+      "_id": "0005-000188",
+      "posX": 163,
+      "posY": 262,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 188
+    }
+  ]
+},{
+  "_id": "0005-000189-000366",
+  "class": "Mob_A",
+  "nameId": 366,
+  "mapId": 5,
+  "positionId": 189,
+  "name_jp": "ファン・アイル",
+  "positions": [
+    {
+      "_id": "0005-000189",
+      "posX": 120,
+      "posY": 220,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 189
+    }
+  ]
+},{
+  "_id": "0005-000190-000367",
+  "class": "Mob_A",
+  "nameId": 367,
+  "mapId": 5,
+  "positionId": 190,
+  "name_jp": "ファン・アイル",
+  "positions": [
+    {
+      "_id": "0005-000190",
+      "posX": 80,
+      "posY": 205,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 190
+    }
+  ]
+},{
+  "_id": "0005-000191-000368",
+  "class": "Mob_A",
+  "nameId": 368,
+  "mapId": 5,
+  "positionId": 191,
+  "name_jp": "ファン・アイル",
+  "positions": [
+    {
+      "_id": "0005-000191",
+      "posX": 133,
+      "posY": 103,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 191
+    }
+  ]
+},{
+  "_id": "0005-000192-000369",
+  "class": "Mob_A",
+  "nameId": 369,
+  "mapId": 5,
+  "positionId": 192,
+  "name_jp": "ファン・アイル",
+  "positions": [
+    {
+      "_id": "0005-000192",
+      "posX": 195,
+      "posY": 102,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 192
+    }
+  ]
+},{
+  "_id": "0005-000193-000370",
+  "class": "Mob_A",
+  "nameId": 370,
+  "mapId": 5,
+  "positionId": 193,
+  "name_jp": "ファン・アイル",
+  "positions": [
+    {
+      "_id": "0005-000193",
+      "posX": 281,
+      "posY": 124,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 193
+    }
+  ]
+},{
+  "_id": "0005-000185-000371",
+  "class": "Mob_A",
+  "nameId": 371,
+  "mapId": 5,
+  "positionId": 185,
+  "name_jp": "ファン・アイル",
+  "positions": [
+    {
+      "_id": "0005-000185",
+      "posX": 148,
+      "posY": 361,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 185
+    }
+  ]
+},{
+  "_id": "0005-000186-000372",
+  "class": "Mob_A",
+  "nameId": 372,
+  "mapId": 5,
+  "positionId": 186,
+  "name_jp": "ファン・アイル",
+  "positions": [
+    {
+      "_id": "0005-000186",
+      "posX": 211,
+      "posY": 345,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 186
+    }
+  ]
+},{
+  "_id": "0005-000187-000373",
+  "class": "Mob_A",
+  "nameId": 373,
+  "mapId": 5,
+  "positionId": 187,
+  "name_jp": "ファン・アイル",
+  "positions": [
+    {
+      "_id": "0005-000187",
+      "posX": 173,
+      "posY": 298,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 187
+    }
+  ]
+},{
+  "_id": "0005-000188-000374",
+  "class": "Mob_A",
+  "nameId": 374,
+  "mapId": 5,
+  "positionId": 188,
+  "name_jp": "ファン・アイル",
+  "positions": [
+    {
+      "_id": "0005-000188",
+      "posX": 163,
+      "posY": 262,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 188
+    }
+  ]
+},{
+  "_id": "0005-000189-000375",
+  "class": "Mob_A",
+  "nameId": 375,
+  "mapId": 5,
+  "positionId": 189,
+  "name_jp": "アーチイータ",
+  "positions": [
+    {
+      "_id": "0005-000189",
+      "posX": 120,
+      "posY": 220,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 189
+    }
+  ]
+},{
+  "_id": "0005-000190-000376",
+  "class": "Mob_A",
+  "nameId": 376,
+  "mapId": 5,
+  "positionId": 190,
+  "name_jp": "アーチイータ",
+  "positions": [
+    {
+      "_id": "0005-000190",
+      "posX": 80,
+      "posY": 205,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 190
+    }
+  ]
+},{
+  "_id": "0005-000191-000377",
+  "class": "Mob_A",
+  "nameId": 377,
+  "mapId": 5,
+  "positionId": 191,
+  "name_jp": "アーチイータ",
+  "positions": [
+    {
+      "_id": "0005-000191",
+      "posX": 133,
+      "posY": 103,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 191
+    }
+  ]
+},{
+  "_id": "0005-000192-000378",
+  "class": "Mob_A",
+  "nameId": 378,
+  "mapId": 5,
+  "positionId": 192,
+  "name_jp": "アーチイータ",
+  "positions": [
+    {
+      "_id": "0005-000192",
+      "posX": 195,
+      "posY": 102,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 192
+    }
+  ]
+},{
+  "_id": "0005-000193-000379",
+  "class": "Mob_A",
+  "nameId": 379,
+  "mapId": 5,
+  "positionId": 193,
+  "name_jp": "アーチイータ",
+  "positions": [
+    {
+      "_id": "0005-000193",
+      "posX": 281,
+      "posY": 124,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 193
+    }
+  ]
+},{
+  "_id": "0005-000185-000380",
+  "class": "Mob_A",
+  "nameId": 380,
+  "mapId": 5,
+  "positionId": 185,
+  "name_jp": "アーチイータ",
+  "positions": [
+    {
+      "_id": "0005-000185",
+      "posX": 148,
+      "posY": 361,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 185
+    }
+  ]
+},{
+  "_id": "0005-000186-000381",
+  "class": "Mob_A",
+  "nameId": 381,
+  "mapId": 5,
+  "positionId": 186,
+  "name_jp": "アーチイータ",
+  "positions": [
+    {
+      "_id": "0005-000186",
+      "posX": 211,
+      "posY": 345,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 186
+    }
+  ]
+},{
+  "_id": "0005-000187-000382",
+  "class": "Mob_A",
+  "nameId": 382,
+  "mapId": 5,
+  "positionId": 187,
+  "name_jp": "アーチイータ",
+  "positions": [
+    {
+      "_id": "0005-000187",
+      "posX": 173,
+      "posY": 298,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 187
+    }
+  ]
+},{
+  "_id": "0005-000188-000383",
+  "class": "Mob_A",
+  "nameId": 383,
+  "mapId": 5,
+  "positionId": 188,
+  "name_jp": "アーチイータ",
+  "positions": [
+    {
+      "_id": "0005-000188",
+      "posX": 163,
+      "posY": 262,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 188
+    }
+  ]
+},{
+  "_id": "0005-000189-000384",
+  "class": "Mob_B",
+  "nameId": 384,
+  "mapId": 5,
+  "positionId": 189,
+  "name_jp": "レベルチーター",
+  "positions": [
+    {
+      "_id": "0005-000189",
+      "posX": 120,
+      "posY": 220,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 189
+    }
+  ]
+},{
+  "_id": "0005-000190-000385",
+  "class": "Mob_B",
+  "nameId": 385,
+  "mapId": 5,
+  "positionId": 190,
+  "name_jp": "レベルチーター",
+  "positions": [
+    {
+      "_id": "0005-000190",
+      "posX": 80,
+      "posY": 205,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 190
+    }
+  ]
+},{
+  "_id": "0005-000191-000386",
+  "class": "Mob_B",
+  "nameId": 386,
+  "mapId": 5,
+  "positionId": 191,
+  "name_jp": "レベルチーター",
+  "positions": [
+    {
+      "_id": "0005-000191",
+      "posX": 133,
+      "posY": 103,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 191
+    }
+  ]
+},{
+  "_id": "0005-000192-000387",
+  "class": "Mob_B",
+  "nameId": 387,
+  "mapId": 5,
+  "positionId": 192,
+  "name_jp": "レベルチーター",
+  "positions": [
+    {
+      "_id": "0005-000192",
+      "posX": 195,
+      "posY": 102,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 192
+    }
+  ]
+},{
+  "_id": "0005-000193-000388",
+  "class": "Mob_B",
+  "nameId": 388,
+  "mapId": 5,
+  "positionId": 193,
+  "name_jp": "レベルチーター",
+  "positions": [
+    {
+      "_id": "0005-000193",
+      "posX": 281,
+      "posY": 124,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 193
+    }
+  ]
+},{
+  "_id": "0005-000185-000389",
+  "class": "Mob_B",
+  "nameId": 389,
+  "mapId": 5,
+  "positionId": 185,
+  "name_jp": "オスク・レイ",
+  "positions": [
+    {
+      "_id": "0005-000185",
+      "posX": 148,
+      "posY": 361,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 185
+    }
+  ]
+},{
+  "_id": "0005-000186-000390",
+  "class": "Mob_B",
+  "nameId": 390,
+  "mapId": 5,
+  "positionId": 186,
+  "name_jp": "オスク・レイ",
+  "positions": [
+    {
+      "_id": "0005-000186",
+      "posX": 211,
+      "posY": 345,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 186
+    }
+  ]
+},{
+  "_id": "0005-000187-000391",
+  "class": "Mob_B",
+  "nameId": 391,
+  "mapId": 5,
+  "positionId": 187,
+  "name_jp": "オスク・レイ",
+  "positions": [
+    {
+      "_id": "0005-000187",
+      "posX": 173,
+      "posY": 298,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 187
+    }
+  ]
+},{
+  "_id": "0005-000188-000392",
+  "class": "Mob_B",
+  "nameId": 392,
+  "mapId": 5,
+  "positionId": 188,
+  "name_jp": "オスク・レイ",
+  "positions": [
+    {
+      "_id": "0005-000188",
+      "posX": 163,
+      "posY": 262,
+      "weight": 0,
+      "mapId": 5,
+      "positionId": 188
+    }
+  ]
+}]

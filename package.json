@@ -12,7 +12,8 @@
     "@types/leaflet": "^1.8.0",
     "@vue-leaflet/vue-leaflet": "^0.6.1",
     "leaflet": "^1.8.0",
-    "vue": "^3.2.37"
+    "vue": "^3.2.37",
+    "vue-i18n": "^9.2.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.1.0",

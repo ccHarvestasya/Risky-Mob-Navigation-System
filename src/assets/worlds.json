@@ -1,0 +1,390 @@
+[
+    {
+        "id": 0,
+        "name": "Japan",
+        "datacenters": [
+            {
+                "id": 0,
+                "name": "Elemental",
+                "worlds": [
+                    {
+                        "id": 0,
+                        "name": "Aegis"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Atomos"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Carbuncle"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Garuda"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Gungnir"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Kujata"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Tonberry"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Typhon"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "name": "Gaia",
+                "worlds": [
+                    {
+                        "id": 0,
+                        "name": "Alexander"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Bahamut"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Durandal"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Fenrir"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Ifrit"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Ridill"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Tiamat"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Ultima"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Mana",
+                "worlds": [
+                    {
+                        "id": 0,
+                        "name": "Anima"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Asura"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Chocobo"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Hades"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Ixion"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Masamune"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Pandaemonium"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Meteor",
+                "worlds": [
+                    {
+                        "id": 0,
+                        "name": "Belias"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Mandragora"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Ramuh"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Shinryu"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Unicorn"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Valefor"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Yojimbo"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Zeromus"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "NorthAmerica",
+        "datacenters": [
+            {
+                "id": 0,
+                "name": "Aether",
+                "worlds": [
+                    {
+                        "id": 0,
+                        "name": "Adamantoise"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Cactuar"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Faerie"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Gilgamesh"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Jenova"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Midgardsormr"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Sargatanas"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Siren"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "name": "Crystal",
+                "worlds": [
+                    {
+                        "id": 0,
+                        "name": "Balmung"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Brynhildr"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Coeurl"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Diabolos"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Goblin"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Malboro"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Mateus"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Zalera"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Primal",
+                "worlds": [
+                    {
+                        "id": 0,
+                        "name": "Behemoth"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Excalibur"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Exodus"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Famfrit"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Hyperion"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Lamia"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Leviathan"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Ultros"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Europe",
+        "datacenters": [
+            {
+                "id": 0,
+                "name": "Chaos",
+                "worlds": [
+                    {
+                        "id": 0,
+                        "name": "Cerberus"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Louisoix"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Moogle"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Omega"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Phantom"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Ragnarok"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Sagittarius"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Spriggan"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "name": "Light",
+                "worlds": [
+                    {
+                        "id": 0,
+                        "name": "Alpha"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Lich"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Odin"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Phoenix"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Raiden"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Shiva"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Twintania"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Zodiark"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Oceania",
+        "datacenters": [
+            {
+                "id": 0,
+                "name": "Materia",
+                "worlds": [
+                    {
+                        "id": 0,
+                        "name": "Bismarck"
+                    },
+                    {
+                        "id": 1,
+                        "name": "Ravana"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Sephirot"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Sophia"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Zurvan"
+                    }
+                ]
+            }
+        ]
+    }
+]

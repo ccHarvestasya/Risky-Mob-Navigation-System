@@ -4,6 +4,7 @@ declare module '@vue-leaflet/vue-leaflet' {
     export const LIcon: DefineComponent;
     export const LTileLayer: DefineComponent;
     export const LMarker: DefineComponent;
+    export const LControl: DefineComponent;
     export const LControlLayers: DefineComponent;
     export const LTooltip: DefineComponent;
     export const LPopup: DefineComponent;
